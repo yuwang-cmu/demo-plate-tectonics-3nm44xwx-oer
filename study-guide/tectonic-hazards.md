@@ -7,7 +7,7 @@
 **Method:** trace a physical process into observations, consequences, and decisions.
 :::
 
-:::success
+:::success 
 **Chapter Learning Objectives**
 
 - **2.1a–b** Relate relative plate motion to fault style and explain elastic rebound without implying a predictable clock.
@@ -17,7 +17,7 @@
 - **2.5a–b** Distinguish monitoring, forecasting, prediction, and early warning; analyze risk as hazard interacting with exposure and vulnerability.
 :::
 
-## Chapter Logic
+## Chapter Logic{{attrs[#blk-9192vwz2e0sw]}}
 
 Chapter 1 supplied the boundary arrows. This chapter asks what may happen next and what evidence can support a decision. Slow plate motion can load a fault; a brief rupture can generate seismic waves; displacement or magma movement can create secondary hazards; and consequences depend on where people and infrastructure are located and how vulnerable they are.
 
@@ -239,7 +239,7 @@ No. It has improved detection but left communication, accessibility, trust, and 
 :::
 ::::
 
-## Chapter Synthesis
+## Chapter Synthesis{{attrs[#blk-3lc20ejjhrbx]}}
 
 The same systems habit runs through both chapters:
 
@@ -253,6 +253,6 @@ The same systems habit runs through both chapters:
 **Takeaway:** tectonic processes cannot be stopped, but consequences are not fixed. Better models, resilient infrastructure, careful land-use choices, accessible warning, and practiced action can reduce risk.
 :::
 
-## Source Adaptation Note
+## Source Adaptation Note{{attrs[#blk-36592a3o9xkl]}}
 
 Adapted and reorganized for this teaching resource. Sources: Wikipedia contributors, [Plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics), [Lithosphere](https://en.wikipedia.org/wiki/Lithosphere), [Seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading), [Paleomagnetism](https://en.wikipedia.org/wiki/Paleomagnetism), [Wilson Cycle](https://en.wikipedia.org/wiki/Wilson_Cycle), [Earthquake](https://en.wikipedia.org/wiki/Earthquake), [Volcano](https://en.wikipedia.org/wiki/Volcano), [Tsunami](https://en.wikipedia.org/wiki/Tsunami), and [Earthquake early warning system](https://en.wikipedia.org/wiki/Earthquake_warning_system), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
