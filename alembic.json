@@ -41,5 +41,8 @@
   ],
   "unitTerm": "chapter",
   "theme": "light-neat-3",
+  "themes": {
+    "slides": "paper"
+  },
   "createdAt": "2026-07-13T00:00:00Z"
 }
