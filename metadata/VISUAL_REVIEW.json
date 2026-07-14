@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "status": "passed",
+  "reviewer": {
+    "type": "human",
+    "name": "Yu Wang"
+  },
+  "reviewedAt": "2026-07-14",
+  "inspectionMethod": "browser-visual-dom",
+  "attestation": "I, Yu Wang, reviewed all six carriers on 2026-07-14 in a browser. Diagrams, tabs, local images, equations, slide layouts and navigation, overflow, keyboard/DOM behavior, and readable alternatives worked correctly.",
+  "carriers": [
+    {
+      "source": "practice/plate-tectonics.md",
+      "carrier": "practice/plate-tectonics.md.html",
+      "builder": "orz-mdhtml",
+      "sourceSha256": "cd6297f25995a84f9d51d3956c10b9737587828e5f7c4ccad6107cbe0df5105b",
+      "outputFingerprint": {
+        "algorithm": "sha256",
+        "normalization": "coursewerk-carrier-v1",
+        "value": "86f6ca58b78eca325c5a892c065285f0df435365d81d2f9f219d76877cba25d0"
+      },
+      "localAssetDigests": []
+    },
+    {
+      "source": "practice/tectonic-hazards.md",
+      "carrier": "practice/tectonic-hazards.md.html",
+      "builder": "orz-mdhtml",
+      "sourceSha256": "3c95901f13ecbdb1b5c7e3243182c863bdf4a19cb06583bb435bfb2c947695b9",
+      "outputFingerprint": {
+        "algorithm": "sha256",
+        "normalization": "coursewerk-carrier-v1",
+        "value": "a59383aab052f0860bf0680fcfaed1d8caf9c88e775cfd46c60cbb1c21518210"
+      },
+      "localAssetDigests": []
+    },
+    {
+      "source": "slides/plate-tectonics.md",
+      "carrier": "slides/plate-tectonics.slides.html",
+      "builder": "orz-slides",
+      "sourceSha256": "d21d87a3254e050280f36462930732c8df94110c827b0c3693a678499145e417",
+      "outputFingerprint": {
+        "algorithm": "sha256",
+        "normalization": "coursewerk-carrier-v1",
+        "value": "248cfdcf64020a07648848bb3e7e9d762b79ab008d1488f20c48cf478afd5c2d"
+      },
+      "localAssetDigests": [
+        {
+          "reference": "../assets/lithosphere-asthenosphere.svg",
+          "path": "assets/lithosphere-asthenosphere.svg",
+          "sha256": "10e2fcd8212c37c331a4daf04b535584a5077a878a1dc110052f450911a53d8f"
+        },
+        {
+          "reference": "../assets/magnetic-stripes.svg",
+          "path": "assets/magnetic-stripes.svg",
+          "sha256": "5cdc4d7f0f67f270ffa214ebf2073cbc0b5d9d303bdafc2d6a3952e603aa5d27"
+        },
+        {
+          "reference": "../assets/pillow-lava-loihi.jpg",
+          "path": "assets/pillow-lava-loihi.jpg",
+          "sha256": "0d3baf848dd9caa88fd38d1b46b916bfdbc934946896bd33f3ee9b268c5a614a"
+        },
+        {
+          "reference": "../assets/plate-boundary-types.svg",
+          "path": "assets/plate-boundary-types.svg",
+          "sha256": "afe98f7dc9dcd9c3fb9f63549e8bc441609bb2816370728fd735225a99985c86"
+        },
+        {
+          "reference": "../assets/thingvellir-rift.jpg",
+          "path": "assets/thingvellir-rift.jpg",
+          "sha256": "f3621f008ef146d53eef152dac39938e99cb37e77573b939caf13ceb5ecebc24"
+        },
+        {
+          "reference": "../assets/wilson-cycle.svg",
+          "path": "assets/wilson-cycle.svg",
+          "sha256": "c2a6ef7d741e33dc3903e7746e3e1531b0531d85ae41f5e2dee8b847f48548f8"
+        }
+      ]
+    },
+    {
+      "source": "slides/tectonic-hazards.md",
+      "carrier": "slides/tectonic-hazards.slides.html",
+      "builder": "orz-slides",
+      "sourceSha256": "1807ce41f4c358c3007514b0a71cc795eb05e19d367230993622f47320c6a96f",
+      "outputFingerprint": {
+        "algorithm": "sha256",
+        "normalization": "coursewerk-carrier-v1",
+        "value": "ae298950ec204da3d88b0f7f088864ea0546890f27e17b1c38adab087a36cfda"
+      },
+      "localAssetDigests": [
+        {
+          "reference": "../assets/elastic-rebound-cycle.svg",
+          "path": "assets/elastic-rebound-cycle.svg",
+          "sha256": "f6b14a6c898d61758728b6786e06f09e2ab0cdddede03d703c7743ada211493c"
+        },
+        {
+          "reference": "../assets/hazard-risk-chain.svg",
+          "path": "assets/hazard-risk-chain.svg",
+          "sha256": "da8ff5df733cd3721eb979690cfbdf0c42d93f689f365440673f3dd286353c46"
+        },
+        {
+          "reference": "../assets/hunga-tonga-plume.jpg",
+          "path": "assets/hunga-tonga-plume.jpg",
+          "sha256": "98e9fe5bd99b789c35f93d1e8193b7b755c3a13abcfd2239425f76e95f1545bc"
+        },
+        {
+          "reference": "../assets/ridgecrest-road-offset.jpg",
+          "path": "assets/ridgecrest-road-offset.jpg",
+          "sha256": "fee2994611d2fd118d9e3f08c2e9073244b87e84a54fe63ce782da7ab460373e"
+        },
+        {
+          "reference": "../assets/tsunami-shoaling.svg",
+          "path": "assets/tsunami-shoaling.svg",
+          "sha256": "91c36575b58c5bedbb91c50c51aed28a7443865e0276cee05b78a7662ab7d5fd"
+        }
+      ]
+    },
+    {
+      "source": "study-guide/plate-tectonics.md",
+      "carrier": "study-guide/plate-tectonics.md.html",
+      "builder": "orz-mdhtml",
+      "sourceSha256": "5b869235f1935a79d2b6bcbdacceb941cef5cac8df748c8787c32c8c80a9f1cc",
+      "outputFingerprint": {
+        "algorithm": "sha256",
+        "normalization": "coursewerk-carrier-v1",
+        "value": "3177b01adfb7018d03877b12768bd27afc4ec07e7e837649c56b6d71c702bdd7"
+      },
+      "localAssetDigests": [
+        {
+          "reference": "../assets/lithosphere-asthenosphere.svg",
+          "path": "assets/lithosphere-asthenosphere.svg",
+          "sha256": "10e2fcd8212c37c331a4daf04b535584a5077a878a1dc110052f450911a53d8f"
+        },
+        {
+          "reference": "../assets/magnetic-stripes.svg",
+          "path": "assets/magnetic-stripes.svg",
+          "sha256": "5cdc4d7f0f67f270ffa214ebf2073cbc0b5d9d303bdafc2d6a3952e603aa5d27"
+        },
+        {
+          "reference": "../assets/pillow-lava-loihi.jpg",
+          "path": "assets/pillow-lava-loihi.jpg",
+          "sha256": "0d3baf848dd9caa88fd38d1b46b916bfdbc934946896bd33f3ee9b268c5a614a"
+        },
+        {
+          "reference": "../assets/plate-boundary-types.svg",
+          "path": "assets/plate-boundary-types.svg",
+          "sha256": "afe98f7dc9dcd9c3fb9f63549e8bc441609bb2816370728fd735225a99985c86"
+        },
+        {
+          "reference": "../assets/thingvellir-rift.jpg",
+          "path": "assets/thingvellir-rift.jpg",
+          "sha256": "f3621f008ef146d53eef152dac39938e99cb37e77573b939caf13ceb5ecebc24"
+        },
+        {
+          "reference": "../assets/wilson-cycle.svg",
+          "path": "assets/wilson-cycle.svg",
+          "sha256": "c2a6ef7d741e33dc3903e7746e3e1531b0531d85ae41f5e2dee8b847f48548f8"
+        }
+      ]
+    },
+    {
+      "source": "study-guide/tectonic-hazards.md",
+      "carrier": "study-guide/tectonic-hazards.md.html",
+      "builder": "orz-mdhtml",
+      "sourceSha256": "91ffc300c1b3de8abd313386b4e64ee8a90f093c157ac9c71019ca825227d1fd",
+      "outputFingerprint": {
+        "algorithm": "sha256",
+        "normalization": "coursewerk-carrier-v1",
+        "value": "a7288b971dbfbb6f2240fa9b4c51dbef46db253408187c829af58ed3adcd3ec4"
+      },
+      "localAssetDigests": [
+        {
+          "reference": "../assets/elastic-rebound-cycle.svg",
+          "path": "assets/elastic-rebound-cycle.svg",
+          "sha256": "f6b14a6c898d61758728b6786e06f09e2ab0cdddede03d703c7743ada211493c"
+        },
+        {
+          "reference": "../assets/hazard-risk-chain.svg",
+          "path": "assets/hazard-risk-chain.svg",
+          "sha256": "da8ff5df733cd3721eb979690cfbdf0c42d93f689f365440673f3dd286353c46"
+        },
+        {
+          "reference": "../assets/hunga-tonga-plume.jpg",
+          "path": "assets/hunga-tonga-plume.jpg",
+          "sha256": "98e9fe5bd99b789c35f93d1e8193b7b755c3a13abcfd2239425f76e95f1545bc"
+        },
+        {
+          "reference": "../assets/ridgecrest-road-offset.jpg",
+          "path": "assets/ridgecrest-road-offset.jpg",
+          "sha256": "fee2994611d2fd118d9e3f08c2e9073244b87e84a54fe63ce782da7ab460373e"
+        },
+        {
+          "reference": "../assets/tsunami-shoaling.svg",
+          "path": "assets/tsunami-shoaling.svg",
+          "sha256": "91c36575b58c5bedbb91c50c51aed28a7443865e0276cee05b78a7662ab7d5fd"
+        }
+      ]
+    }
+  ]
+}

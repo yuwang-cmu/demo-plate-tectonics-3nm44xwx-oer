@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Tsunami propagation and shoaling from deep ocean to coast</title>
+  <desc id="desc">A long, low-amplitude wave moves rapidly across deep water. As water becomes shallower near shore, wave speed and wavelength decrease while water level and run-up can grow. Several waves may arrive, and the first need not be the largest.</desc>
+  <defs><marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#0f766e"/></marker></defs>
+  <rect width="1200" height="560" rx="28" fill="#f0f9ff"/>
+  <path d="M0 390 C250 410 470 430 690 430 C900 430 1030 360 1200 280 L1200 560 L0 560 Z" fill="#d6d3d1"/>
+  <path d="M0 260 C110 245 220 275 330 260 S550 245 660 260 S850 280 940 245 S1080 155 1200 205 L1200 390 C1030 360 900 430 690 430 C470 430 250 410 0 390 Z" fill="#7dd3fc" opacity="0.85"/>
+  <g font-family="Arial, sans-serif" fill="#0f172a">
+    <text x="600" y="60" text-anchor="middle" font-size="34" font-weight="700">The coast transforms a tsunami</text>
+    <text x="175" y="130" font-size="25" font-weight="700">Deep ocean</text><text x="175" y="165" font-size="20">long wavelength</text><text x="175" y="195" font-size="20">low wave height</text><text x="175" y="225" font-size="20">high speed</text>
+    <text x="565" y="130" font-size="25" font-weight="700">Shoaling</text><text x="565" y="165" font-size="20">speed decreases</text><text x="565" y="195" font-size="20">wavelength shortens</text>
+    <text x="930" y="130" font-size="25" font-weight="700">Coast</text><text x="930" y="165" font-size="20">water level and</text><text x="930" y="195" font-size="20">run-up can grow</text>
+    <g stroke="#0f766e" stroke-width="5" fill="none" marker-end="url(#ar)"><path d="M260 320 H455"/><path d="M655 320 H835"/></g>
+    <text x="600" y="515" text-anchor="middle" font-size="20">Bathymetry and coastal shape affect inundation; multiple waves can arrive for hours.</text>
+  </g>
+</svg>

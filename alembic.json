@@ -1,14 +1,26 @@
 {
   "schemaVersion": 2,
   "packageId": "pkg-demo-plate-tectonics-3nm44xwx",
-  "title": "(Demo) Plate Tectonics",
-  "description": "",
-  "keywords": [],
-  "discipline": "chemistry",
-  "courseContext": {},
+  "title": "Plate Tectonics: A Systems View of a Dynamic Earth",
+  "description": "A two-chapter introductory Earth-science demonstration that first develops plate tectonics as a testable model and then applies it to earthquakes, volcanoes, tsunamis, monitoring, warning, and risk reduction. Learners connect relative plate motion to fault rupture, magma movement, water displacement, and the observations used to distinguish hazards from disaster risk. Each chapter includes a concept map, accessible study guide, visual slide deck, assessment-design guide, worked practice set, and locally stored figures with complete provenance. This package is for Alembic demonstration only and will not be used directly for a class. It illustrates what an AI agent can produce through Coursewerk without human-authored lesson content or subject-matter editing; human involvement was limited to commissioning, pipeline audit, consistency checks, and publication oversight.",
+  "keywords": [
+    "plate tectonics",
+    "Earth science",
+    "earthquakes",
+    "volcanoes",
+    "tsunamis",
+    "hazard monitoring",
+    "risk reduction"
+  ],
+  "discipline": "Earth science",
+  "courseContext": {
+    "courseName": "Introduction to Earth Science",
+    "level": "introductory undergraduate",
+    "instructor": "Yu Wang (demo curator)",
+    "courseNumber": "Unassigned",
+    "department": "Earth and Environmental Sciences"
+  },
   "license": "CC-BY-SA-4.0",
-  "unitTerm": "chapter",
-  "createdAt": "2026-07-14T11:18:05.938Z",
   "publicRepo": {
     "owner": "yuwang-cmu",
     "name": "demo-plate-tectonics-3nm44xwx-oer"
@@ -16,5 +28,17 @@
   "privateRepo": {
     "owner": "yuwang-cmu",
     "name": "demo-plate-tectonics-3nm44xwx-private"
-  }
+  },
+  "chapters": [
+    {
+      "slug": "plate-tectonics",
+      "title": "Plate Tectonics"
+    },
+    {
+      "slug": "tectonic-hazards",
+      "title": "Tectonic Hazards: Processes, Warning, and Risk"
+    }
+  ],
+  "unitTerm": "chapter",
+  "createdAt": "2026-07-13T00:00:00Z"
 }

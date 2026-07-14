@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Elastic rebound cycle from plate motion to earthquake</title>
+  <desc id="desc">A four-stage cycle shows steady plate motion loading a locked fault, elastic strain building, sudden rupture releasing seismic waves, and the fault locking again while plate motion continues.</desc>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#334155"/></marker></defs>
+  <rect width="1200" height="520" rx="28" fill="#f8fafc"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <g fill="#dbeafe" stroke="#2563eb" stroke-width="3"><rect x="55" y="145" width="235" height="190" rx="20"/><rect x="335" y="145" width="235" height="190" rx="20"/></g>
+    <g fill="#fee2e2" stroke="#dc2626" stroke-width="3"><rect x="615" y="145" width="235" height="190" rx="20"/></g>
+    <g fill="#dcfce7" stroke="#16a34a" stroke-width="3"><rect x="895" y="145" width="235" height="190" rx="20"/></g>
+    <g font-size="26" font-weight="700" fill="#0f172a"><text x="172" y="190">1. Loading</text><text x="452" y="190">2. Strain</text><text x="732" y="190">3. Rupture</text><text x="1012" y="190">4. Reset</text></g>
+    <g font-size="20" fill="#334155"><text x="172" y="235">Plate motion continues</text><text x="172" y="270">while friction locks</text><text x="172" y="305">the fault.</text><text x="452" y="235">Rock deforms and</text><text x="452" y="270">stores elastic</text><text x="452" y="305">energy.</text><text x="732" y="235">Slip begins and</text><text x="732" y="270">propagates; waves</text><text x="732" y="305">radiate outward.</text><text x="1012" y="235">Stress drops locally;</text><text x="1012" y="270">the fault may lock</text><text x="1012" y="305">again.</text></g>
+    <g stroke="#334155" stroke-width="5" fill="none" marker-end="url(#arrow)"><path d="M290 240 H325"/><path d="M570 240 H605"/><path d="M850 240 H885"/><path d="M1012 345 C1012 455 172 455 172 345"/></g>
+    <text x="600" y="75" font-size="34" font-weight="700" fill="#0f172a">An earthquake is an event in a continuing deformation cycle</text>
+    <text x="600" y="485" font-size="20" fill="#475569">The cycle does not predict the exact time of the next rupture.</text>
+  </g>
+</svg>

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "mode": "light",
+  "reviewKind": "same-model-independent-pass",
+  "authoringSystem": "Codex AI agents following Coursewerk",
+  "authoringModelId": "gpt-5",
+  "reviewer": {
+    "name": "Codex independent reviewer",
+    "type": "ai",
+    "modelId": "gpt-5"
+  },
+  "independence": {
+    "separatePass": true,
+    "contextReset": true,
+    "approach": "The chapters were drafted in delegated Codex agent contexts. After authoring ended, the parent Codex reviewer independently reopened the revision-bound corpus, rights evidence, manifest, metadata, and current teaching files and checked the high-risk facts without relying on the drafting context."
+  },
+  "reviewedAt": "2026-07-14",
+  "bindings": {
+    "manifestSha256": "0995afff38e413757c34264facfd8512309301237544aa2ec4d6a03cef8d688d",
+    "licenseSha256": "23ee78c8bae49cf08ea2f0c84945c66b987ebe4520881fb51b3dad4fb43d07c2",
+    "foundationSha256": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980",
+    "provenanceSha256": "627a70ecfbced4d7f0dc83669d8bb52b8238dea6606f59cfa0ce4d9efe62db47",
+    "attributionSha256": "620e0e6e58418cbe49bf8a66271732215122f0664565bdd5ff440e0a8b8559af",
+    "sourceRecordSha256": "a3c4e96bc567175597f65425e38977bc351f1e3590ff355bf5539275dd5b1698",
+    "deliverableTreeSha256": "41d719351c47076f8d3e7967a39ab1665dfed618bf2811e757d39bd78a7edbaf"
+  },
+  "checks": [
+    {
+      "id": "accountable-identity",
+      "status": "passed",
+      "note": "FOUNDATION.json names Yu Wang as the user-confirmed, rights-holding accountable publisher and curator, and separately discloses that Coursewerk-guided AI agents drafted and checked the instructional content."
+    },
+    {
+      "id": "source-identity-version",
+      "status": "passed",
+      "note": "All nine Wikipedia sources have distinct canonical identities and exact revision, timestamp, permanent-URL, raw-snapshot digest, and extracted-text digest records in the corpus and compact SOURCE_RECORD.json."
+    },
+    {
+      "id": "source-license-evidence",
+      "status": "passed",
+      "note": "Each Wikipedia text source is declared CC BY-SA 4.0 and is backed by a retained, hashed Wikimedia Terms of Use snapshot plus a current cleared pre-ingestion receipt; separately licensed page media were not treated as covered by the article-text license."
+    },
+    {
+      "id": "external-media-rights",
+      "status": "passed",
+      "note": "All eleven local media items are represented in provenance and attribution. The four fetched photographs retain hashed authoritative Commons description-page evidence with compatible CC BY-SA or public-domain status; the seven diagrams are original package assets under CC BY-SA 4.0."
+    },
+    {
+      "id": "output-license-compatibility",
+      "status": "passed",
+      "note": "The manifest and LICENSE both apply CC BY-SA 4.0, satisfying the Wikipedia text adaptations' share-alike condition and remaining compatible with the declared CC BY-SA and public-domain media inputs."
+    },
+    {
+      "id": "attribution-obligations",
+      "status": "passed",
+      "note": "ATTRIBUTION.md and the relevant teaching files name Wikipedia contributors, link each used article and CC BY-SA 4.0, identify adaptation, and separately credit every external photograph and original diagram with its rights status."
+    },
+    {
+      "id": "scientific-key-facts",
+      "status": "passed",
+      "note": "Representative claims from both chapters were independently traced to the captured revisions. Plate creation and recycling, magnetic and age evidence, magnitude versus intensity, the approximate energy scaling, tsunami speed modeling, and post-rupture early warning were consistent with the corpus and were not overstated."
+    }
+  ],
+  "keyFacts": [
+    {
+      "id": "plate-lifecycle-and-evidence",
+      "claim": "Oceanic lithosphere forms at spreading centers, cools and thickens away from ridges, and may be recycled at subduction zones; outward-increasing age and magnetic polarity patterns provide tests of seafloor spreading.",
+      "status": "verified",
+      "evidenceSourceIds": [
+        "wikipedia-plate-tectonics",
+        "wikipedia-lithosphere",
+        "wikipedia-seafloor-spreading",
+        "wikipedia-paleomagnetism"
+      ],
+      "usedIn": [
+        "study-guide/plate-tectonics.md"
+      ],
+      "note": "The chapter distinguishes crust from lithosphere, states the cooling and recycling sequence with appropriate qualifications, and treats magnetic symmetry and age-distance observations as converging evidence rather than as an infallible single test."
+    },
+    {
+      "id": "earthquake-magnitude-intensity-energy",
+      "claim": "Earthquake magnitude is a source-size value, intensity varies by location, and a one-unit magnitude increase corresponds to approximately 32 times more released energy in the simplified comparison used here.",
+      "status": "verified",
+      "evidenceSourceIds": [
+        "wikipedia-earthquake"
+      ],
+      "usedIn": [
+        "study-guide/tectonic-hazards.md"
+      ],
+      "note": "The prose and worked example preserve the magnitude/intensity distinction, label the 32-fold relation as approximate, calculate 32 squared as 1024 for a two-unit difference, and avoid inferring local damage from magnitude alone."
+    },
+    {
+      "id": "tsunami-shallow-water-speed",
+      "claim": "For a long tsunami in water shallow relative to its wavelength, the idealized speed is c = sqrt(gd); using g about 10 m/s squared and d = 5,000 m gives about 224 m/s or 806 km/h.",
+      "status": "verified",
+      "evidenceSourceIds": [
+        "wikipedia-tsunami"
+      ],
+      "usedIn": [
+        "study-guide/tectonic-hazards.md"
+      ],
+      "note": "The equation, substitution, square-root result, and unit conversion are correct. The text states the shallow-water and idealized-model limits and does not imply that the estimate alone predicts coastal impact."
+    },
+    {
+      "id": "earthquake-early-warning-not-prediction",
+      "claim": "Earthquake early warning detects an earthquake after rupture begins and may provide useful notice at some locations before stronger shaking arrives; it is not short-term earthquake prediction.",
+      "status": "verified",
+      "evidenceSourceIds": [
+        "wikipedia-earthquake",
+        "wikipedia-earthquake-warning-system"
+      ],
+      "usedIn": [
+        "study-guide/tectonic-hazards.md"
+      ],
+      "note": "The chapter explicitly separates monitoring, forecasting, prediction, and early warning, explains P-wave and communication latency, and acknowledges that sites close to the rupture may receive no useful warning."
+    }
+  ]
+}

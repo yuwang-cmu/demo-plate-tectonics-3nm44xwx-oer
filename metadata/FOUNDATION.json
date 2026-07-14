@@ -1,0 +1,593 @@
+{
+  "schemaVersion": 1,
+  "usageProfile": "public-oer",
+  "audience": "introductory undergraduate Earth-science learners",
+  "access": "public-web",
+  "redistribution": "open-license",
+  "jurisdiction": "international",
+  "outputLicense": "CC-BY-SA-4.0",
+  "outputAuthors": [
+    {
+      "name": "Yu Wang",
+      "role": "accountable publisher and curator of this AI-generated Coursewerk demonstration",
+      "rightsHolder": true,
+      "accountabilityConfirmedByUser": true,
+      "aiAssistanceDisclosure": "The teaching materials were drafted, structured, formatted, and checked by AI agents following Coursewerk without human-authored lesson content or subject-matter editing. Human involvement was limited to commissioning the demonstration, auditing the pipeline, consistency review, and publication oversight."
+    }
+  ],
+  "privacy": {
+    "containsPersonalData": false,
+    "containsRestrictedContent": false
+  },
+  "sourcePrecedence": [
+    "wikipedia-plate-tectonics",
+    "wikipedia-lithosphere",
+    "wikipedia-seafloor-spreading",
+    "wikipedia-paleomagnetism",
+    "wikipedia-wilson-cycle",
+    "wikipedia-earthquake",
+    "wikipedia-volcano",
+    "wikipedia-tsunami",
+    "wikipedia-earthquake-warning-system"
+  ],
+  "sources": [
+    {
+      "id": "wikipedia-plate-tectonics",
+      "title": "Plate tectonics",
+      "version": "live page; exact revision captured in SOURCE_CORPUS.json",
+      "publisher": "Wikipedia contributors",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Plate_tectonics",
+      "role": "primary",
+      "use": "adaptation",
+      "scope": [
+        "whole article text relevant to the chapter; separately licensed media excluded"
+      ],
+      "rightsBasis": {
+        "type": "open-license",
+        "license": "CC-BY-SA-4.0",
+        "evidenceType": "official-publisher-page",
+        "evidenceUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+        "verifiedAt": "2026-07-13",
+        "evidenceSnapshot": "metadata/evidence/wikipedia-earthquake.html",
+        "evidenceSha256": "6ba3c7ff64ccff2ae086950c212e0287ac271091aaa6d2a8ef6614dd5cbb3c4e",
+        "evidenceRetrieval": {
+          "captureMode": "network",
+          "requestedUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+          "finalUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+          "redirectChain": [],
+          "retrievedAt": "2026-07-14T09:01:15.770Z",
+          "httpStatus": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "byteLength": 152376,
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "evidenceCapture": {
+          "operator": {
+            "type": "automation",
+            "name": "Coursewerk Trial Builder"
+          },
+          "capturedAt": "2026-07-14T09:01:15.770Z",
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "processUseReview": {
+          "schemaVersion": 1,
+          "scannedAt": "2026-07-14T09:01:15.770Z",
+          "status": "no-notice-detected",
+          "legalEffectDetermined": false,
+          "notices": []
+        },
+        "preflightReceipt": "metadata/preflight/wikipedia-plate-tectonics.json",
+        "preflightReceiptSha256": "249418d7359666419ace4fc1d4ced8a41687284bf480d9f2db693f7b339bcd1e"
+      },
+      "requiredAttribution": {
+        "textIncludes": "Wikipedia contributors",
+        "url": "https://en.wikipedia.org/wiki/Plate_tectonics",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "modificationNotice": "Adapted and reorganized for this teaching resource.",
+        "placement": "metadata-and-relevant-deliverables"
+      }
+    },
+    {
+      "id": "wikipedia-lithosphere",
+      "title": "Lithosphere",
+      "version": "live page; exact revision captured in SOURCE_CORPUS.json",
+      "publisher": "Wikipedia contributors",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Lithosphere",
+      "role": "primary",
+      "use": "adaptation",
+      "scope": [
+        "whole article text relevant to lithospheric structure, mechanical layering, and plate motion; separately licensed media excluded"
+      ],
+      "rightsBasis": {
+        "type": "open-license",
+        "license": "CC-BY-SA-4.0",
+        "evidenceType": "official-publisher-page",
+        "evidenceUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+        "verifiedAt": "2026-07-13",
+        "evidenceSnapshot": "metadata/evidence/wikipedia-earthquake.html",
+        "evidenceSha256": "6ba3c7ff64ccff2ae086950c212e0287ac271091aaa6d2a8ef6614dd5cbb3c4e",
+        "evidenceRetrieval": {
+          "captureMode": "network",
+          "requestedUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+          "finalUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+          "redirectChain": [],
+          "retrievedAt": "2026-07-14T09:01:20.489Z",
+          "httpStatus": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "byteLength": 152376,
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "evidenceCapture": {
+          "operator": {
+            "type": "automation",
+            "name": "Coursewerk Trial Builder"
+          },
+          "capturedAt": "2026-07-14T09:01:20.489Z",
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "processUseReview": {
+          "schemaVersion": 1,
+          "scannedAt": "2026-07-14T09:01:20.489Z",
+          "status": "no-notice-detected",
+          "legalEffectDetermined": false,
+          "notices": []
+        },
+        "preflightReceipt": "metadata/preflight/wikipedia-lithosphere.json",
+        "preflightReceiptSha256": "b4a88968ed8266e84c1c1d3b2e8fba71fa40858f071cd1d5220ef5db093815f7"
+      },
+      "requiredAttribution": {
+        "textIncludes": "Wikipedia contributors",
+        "url": "https://en.wikipedia.org/wiki/Lithosphere",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "modificationNotice": "Adapted and reorganized for this teaching resource.",
+        "placement": "metadata-and-relevant-deliverables"
+      }
+    },
+    {
+      "id": "wikipedia-seafloor-spreading",
+      "title": "Seafloor spreading",
+      "version": "live page; exact revision captured in SOURCE_CORPUS.json",
+      "publisher": "Wikipedia contributors",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Seafloor_spreading",
+      "role": "primary",
+      "use": "adaptation",
+      "scope": [
+        "whole article text relevant to ridge processes, ocean-floor age, and magnetic evidence; separately licensed media excluded"
+      ],
+      "rightsBasis": {
+        "type": "open-license",
+        "license": "CC-BY-SA-4.0",
+        "evidenceType": "official-publisher-page",
+        "evidenceUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+        "verifiedAt": "2026-07-13",
+        "evidenceSnapshot": "metadata/evidence/wikipedia-earthquake.html",
+        "evidenceSha256": "6ba3c7ff64ccff2ae086950c212e0287ac271091aaa6d2a8ef6614dd5cbb3c4e",
+        "evidenceRetrieval": {
+          "captureMode": "network",
+          "requestedUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+          "finalUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+          "redirectChain": [],
+          "retrievedAt": "2026-07-14T09:01:25.470Z",
+          "httpStatus": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "byteLength": 152376,
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "evidenceCapture": {
+          "operator": {
+            "type": "automation",
+            "name": "Coursewerk Trial Builder"
+          },
+          "capturedAt": "2026-07-14T09:01:25.470Z",
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "processUseReview": {
+          "schemaVersion": 1,
+          "scannedAt": "2026-07-14T09:01:25.470Z",
+          "status": "no-notice-detected",
+          "legalEffectDetermined": false,
+          "notices": []
+        },
+        "preflightReceipt": "metadata/preflight/wikipedia-seafloor-spreading.json",
+        "preflightReceiptSha256": "250922420ace307dff3795ee56fb2974dc87edc6c222c0c0bced3aba0b236f4f"
+      },
+      "requiredAttribution": {
+        "textIncludes": "Wikipedia contributors",
+        "url": "https://en.wikipedia.org/wiki/Seafloor_spreading",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "modificationNotice": "Adapted and reorganized for this teaching resource.",
+        "placement": "metadata-and-relevant-deliverables"
+      }
+    },
+    {
+      "id": "wikipedia-paleomagnetism",
+      "title": "Paleomagnetism",
+      "version": "live page; exact revision captured in SOURCE_CORPUS.json",
+      "publisher": "Wikipedia contributors",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Paleomagnetism",
+      "role": "primary",
+      "use": "adaptation",
+      "scope": [
+        "whole article text relevant to remanent magnetism, reversals, and plate-motion evidence; separately licensed media excluded"
+      ],
+      "rightsBasis": {
+        "type": "open-license",
+        "license": "CC-BY-SA-4.0",
+        "evidenceType": "official-publisher-page",
+        "evidenceUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+        "verifiedAt": "2026-07-13",
+        "evidenceSnapshot": "metadata/evidence/wikipedia-earthquake.html",
+        "evidenceSha256": "6ba3c7ff64ccff2ae086950c212e0287ac271091aaa6d2a8ef6614dd5cbb3c4e",
+        "evidenceRetrieval": {
+          "captureMode": "network",
+          "requestedUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+          "finalUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+          "redirectChain": [],
+          "retrievedAt": "2026-07-14T09:01:31.365Z",
+          "httpStatus": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "byteLength": 152376,
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "evidenceCapture": {
+          "operator": {
+            "type": "automation",
+            "name": "Coursewerk Trial Builder"
+          },
+          "capturedAt": "2026-07-14T09:01:31.365Z",
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "processUseReview": {
+          "schemaVersion": 1,
+          "scannedAt": "2026-07-14T09:01:31.365Z",
+          "status": "no-notice-detected",
+          "legalEffectDetermined": false,
+          "notices": []
+        },
+        "preflightReceipt": "metadata/preflight/wikipedia-paleomagnetism.json",
+        "preflightReceiptSha256": "0eae9f49c6e53b7d06b7bbd61603a47b947e1e0a5cb90d2b310b19b19ca12db6"
+      },
+      "requiredAttribution": {
+        "textIncludes": "Wikipedia contributors",
+        "url": "https://en.wikipedia.org/wiki/Paleomagnetism",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "modificationNotice": "Adapted and reorganized for this teaching resource.",
+        "placement": "metadata-and-relevant-deliverables"
+      }
+    },
+    {
+      "id": "wikipedia-wilson-cycle",
+      "title": "Wilson Cycle",
+      "version": "live page; exact revision captured in SOURCE_CORPUS.json",
+      "publisher": "Wikipedia contributors",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Wilson_Cycle",
+      "role": "primary",
+      "use": "adaptation",
+      "scope": [
+        "whole article text relevant to ocean-basin opening and closure; separately licensed media excluded"
+      ],
+      "rightsBasis": {
+        "type": "open-license",
+        "license": "CC-BY-SA-4.0",
+        "evidenceType": "official-publisher-page",
+        "evidenceUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+        "verifiedAt": "2026-07-13",
+        "evidenceSnapshot": "metadata/evidence/wikipedia-earthquake.html",
+        "evidenceSha256": "6ba3c7ff64ccff2ae086950c212e0287ac271091aaa6d2a8ef6614dd5cbb3c4e",
+        "evidenceRetrieval": {
+          "captureMode": "network",
+          "requestedUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+          "finalUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+          "redirectChain": [],
+          "retrievedAt": "2026-07-14T09:01:39.485Z",
+          "httpStatus": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "byteLength": 152376,
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "evidenceCapture": {
+          "operator": {
+            "type": "automation",
+            "name": "Coursewerk Trial Builder"
+          },
+          "capturedAt": "2026-07-14T09:01:39.485Z",
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "processUseReview": {
+          "schemaVersion": 1,
+          "scannedAt": "2026-07-14T09:01:39.485Z",
+          "status": "no-notice-detected",
+          "legalEffectDetermined": false,
+          "notices": []
+        },
+        "preflightReceipt": "metadata/preflight/wikipedia-wilson-cycle.json",
+        "preflightReceiptSha256": "190e98c03e8e285713459d23758f72833bfb43d8ec45f54ffc05e6ca03e7f5cd"
+      },
+      "requiredAttribution": {
+        "textIncludes": "Wikipedia contributors",
+        "url": "https://en.wikipedia.org/wiki/Wilson_Cycle",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "modificationNotice": "Adapted and reorganized for this teaching resource.",
+        "placement": "metadata-and-relevant-deliverables"
+      }
+    },
+    {
+      "id": "wikipedia-earthquake",
+      "title": "Earthquake",
+      "version": "live page; exact revision captured in SOURCE_CORPUS.json",
+      "publisher": "Wikipedia contributors",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Earthquake",
+      "role": "primary",
+      "use": "adaptation",
+      "scope": [
+        "whole article text relevant to rupture, seismic waves, effects, and hazard; separately licensed media excluded"
+      ],
+      "rightsBasis": {
+        "type": "open-license",
+        "license": "CC-BY-SA-4.0",
+        "evidenceType": "official-publisher-page",
+        "evidenceUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+        "verifiedAt": "2026-07-14",
+        "evidenceSnapshot": "metadata/evidence/wikipedia-earthquake.html",
+        "evidenceSha256": "6ba3c7ff64ccff2ae086950c212e0287ac271091aaa6d2a8ef6614dd5cbb3c4e",
+        "evidenceRetrieval": {
+          "captureMode": "network",
+          "requestedUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+          "finalUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+          "redirectChain": [],
+          "retrievedAt": "2026-07-14T09:01:44.069Z",
+          "httpStatus": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "byteLength": 152376,
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "evidenceCapture": {
+          "operator": {
+            "type": "automation",
+            "name": "Coursewerk Trial Builder"
+          },
+          "capturedAt": "2026-07-14T09:01:44.069Z",
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "processUseReview": {
+          "schemaVersion": 1,
+          "scannedAt": "2026-07-14T09:01:44.069Z",
+          "status": "no-notice-detected",
+          "legalEffectDetermined": false,
+          "notices": []
+        },
+        "preflightReceipt": "metadata/preflight/wikipedia-earthquake.json",
+        "preflightReceiptSha256": "d02b11e31eb469c9581d49a72858a59c094ea980857e3a1f9aae733fc797a57f"
+      },
+      "requiredAttribution": {
+        "textIncludes": "Wikipedia contributors",
+        "url": "https://en.wikipedia.org/wiki/Earthquake",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "modificationNotice": "Adapted and reorganized for this teaching resource.",
+        "placement": "metadata-and-relevant-deliverables"
+      }
+    },
+    {
+      "id": "wikipedia-volcano",
+      "title": "Volcano",
+      "version": "live page; exact revision captured in SOURCE_CORPUS.json",
+      "publisher": "Wikipedia contributors",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Volcano",
+      "role": "primary",
+      "use": "adaptation",
+      "scope": [
+        "whole article text relevant to magma, eruption styles, tectonic settings, monitoring, and hazard; separately licensed media excluded"
+      ],
+      "rightsBasis": {
+        "type": "open-license",
+        "license": "CC-BY-SA-4.0",
+        "evidenceType": "official-publisher-page",
+        "evidenceUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+        "verifiedAt": "2026-07-14",
+        "evidenceSnapshot": "metadata/evidence/wikipedia-earthquake.html",
+        "evidenceSha256": "6ba3c7ff64ccff2ae086950c212e0287ac271091aaa6d2a8ef6614dd5cbb3c4e",
+        "evidenceRetrieval": {
+          "captureMode": "network",
+          "requestedUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+          "finalUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+          "redirectChain": [],
+          "retrievedAt": "2026-07-14T09:01:48.006Z",
+          "httpStatus": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "byteLength": 152376,
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "evidenceCapture": {
+          "operator": {
+            "type": "automation",
+            "name": "Coursewerk Trial Builder"
+          },
+          "capturedAt": "2026-07-14T09:01:48.006Z",
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "processUseReview": {
+          "schemaVersion": 1,
+          "scannedAt": "2026-07-14T09:01:48.006Z",
+          "status": "no-notice-detected",
+          "legalEffectDetermined": false,
+          "notices": []
+        },
+        "preflightReceipt": "metadata/preflight/wikipedia-volcano.json",
+        "preflightReceiptSha256": "d8a9d81f954b3c8885772668b2ef8f47bb0fb3696bb9e30c1e78848a8fa67f10"
+      },
+      "requiredAttribution": {
+        "textIncludes": "Wikipedia contributors",
+        "url": "https://en.wikipedia.org/wiki/Volcano",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "modificationNotice": "Adapted and reorganized for this teaching resource.",
+        "placement": "metadata-and-relevant-deliverables"
+      }
+    },
+    {
+      "id": "wikipedia-tsunami",
+      "title": "Tsunami",
+      "version": "live page; exact revision captured in SOURCE_CORPUS.json",
+      "publisher": "Wikipedia contributors",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Tsunami",
+      "role": "primary",
+      "use": "adaptation",
+      "scope": [
+        "whole article text relevant to generation, propagation, run-up, warning, and risk; separately licensed media excluded"
+      ],
+      "rightsBasis": {
+        "type": "open-license",
+        "license": "CC-BY-SA-4.0",
+        "evidenceType": "official-publisher-page",
+        "evidenceUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+        "verifiedAt": "2026-07-14",
+        "evidenceSnapshot": "metadata/evidence/wikipedia-earthquake.html",
+        "evidenceSha256": "6ba3c7ff64ccff2ae086950c212e0287ac271091aaa6d2a8ef6614dd5cbb3c4e",
+        "evidenceRetrieval": {
+          "captureMode": "network",
+          "requestedUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+          "finalUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+          "redirectChain": [],
+          "retrievedAt": "2026-07-14T09:01:52.226Z",
+          "httpStatus": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "byteLength": 152376,
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "evidenceCapture": {
+          "operator": {
+            "type": "automation",
+            "name": "Coursewerk Trial Builder"
+          },
+          "capturedAt": "2026-07-14T09:01:52.226Z",
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "processUseReview": {
+          "schemaVersion": 1,
+          "scannedAt": "2026-07-14T09:01:52.226Z",
+          "status": "no-notice-detected",
+          "legalEffectDetermined": false,
+          "notices": []
+        },
+        "preflightReceipt": "metadata/preflight/wikipedia-tsunami.json",
+        "preflightReceiptSha256": "741a9bf876b1ed0970f67e6639935737008bd5e99512ad16fb9b0c5e3b3a7300"
+      },
+      "requiredAttribution": {
+        "textIncludes": "Wikipedia contributors",
+        "url": "https://en.wikipedia.org/wiki/Tsunami",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "modificationNotice": "Adapted and reorganized for this teaching resource.",
+        "placement": "metadata-and-relevant-deliverables"
+      }
+    },
+    {
+      "id": "wikipedia-earthquake-warning-system",
+      "title": "Earthquake early warning system",
+      "version": "live page; exact revision captured in SOURCE_CORPUS.json",
+      "publisher": "Wikipedia contributors",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Earthquake_warning_system",
+      "role": "primary",
+      "use": "adaptation",
+      "scope": [
+        "whole article text relevant to detection, warning latency, actions, and limitations; separately licensed media excluded"
+      ],
+      "rightsBasis": {
+        "type": "open-license",
+        "license": "CC-BY-SA-4.0",
+        "evidenceType": "official-publisher-page",
+        "evidenceUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+        "verifiedAt": "2026-07-14",
+        "evidenceSnapshot": "metadata/evidence/wikipedia-earthquake.html",
+        "evidenceSha256": "6ba3c7ff64ccff2ae086950c212e0287ac271091aaa6d2a8ef6614dd5cbb3c4e",
+        "evidenceRetrieval": {
+          "captureMode": "network",
+          "requestedUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+          "finalUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+          "redirectChain": [],
+          "retrievedAt": "2026-07-14T09:23:44.901Z",
+          "httpStatus": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "byteLength": 152376,
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "evidenceCapture": {
+          "operator": {
+            "type": "automation",
+            "name": "Coursewerk consistency revision"
+          },
+          "capturedAt": "2026-07-14T09:23:44.901Z",
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "processUseReview": {
+          "schemaVersion": 1,
+          "scannedAt": "2026-07-14T09:23:44.901Z",
+          "status": "no-notice-detected",
+          "legalEffectDetermined": false,
+          "notices": []
+        },
+        "preflightReceipt": "metadata/preflight/wikipedia-earthquake-warning-system.json",
+        "preflightReceiptSha256": "87d5994511f450a27e9ab1435919336c67685b000f54396795209574919b1072"
+      },
+      "requiredAttribution": {
+        "textIncludes": "Wikipedia contributors",
+        "url": "https://en.wikipedia.org/wiki/Earthquake_warning_system",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "modificationNotice": "Adapted and reorganized for this teaching resource.",
+        "placement": "metadata-and-relevant-deliverables"
+      }
+    }
+  ]
+}

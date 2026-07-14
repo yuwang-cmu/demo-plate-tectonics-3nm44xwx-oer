@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "sourceId": "wikipedia-earthquake",
+      "comparisonMode": "automatic",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Earthquake",
+      "retrievedAt": "2026-07-14T08:47:16.997Z",
+      "extractor": {
+        "tool": "wikipedia-action-api",
+        "version": "v0.11.0",
+        "schemaVersion": 1,
+        "sourceFormat": "mediawiki-json-extract"
+      },
+      "originalSha256": "2931f60d4f16ba03cb170556538110f0cd2a96988ece768f851092344cf26517",
+      "textSha256": "52f17d6acccfdc2148a9f608a344e8240a03e91d4891f1a83f0f07b44b43d965",
+      "wordCount": 6029,
+      "retrieval": {
+        "captureMode": "network",
+        "apiEndpoint": "https://en.wikipedia.org/w/api.php",
+        "requestedUrl": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=extracts%7Crevisions&explaintext=1&rvprop=ids%7Ctimestamp&redirects=1&titles=Earthquake&maxlag=5",
+        "finalUrl": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=extracts%7Crevisions&explaintext=1&rvprop=ids%7Ctimestamp&redirects=1&titles=Earthquake&maxlag=5",
+        "httpStatus": 200,
+        "contentType": "application/json; charset=utf-8",
+        "retrievedAt": "2026-07-14T08:47:16.997Z",
+        "byteLength": 39424,
+        "tool": {
+          "name": "coursewerk",
+          "version": "v0.11.0"
+        },
+        "pageId": 10106,
+        "revisionId": 1363840837,
+        "revisionTimestamp": "2026-07-12T20:21:05Z",
+        "title": "Earthquake",
+        "resolvedUrl": "https://en.wikipedia.org/wiki/Earthquake",
+        "permanentUrl": "https://en.wikipedia.org/w/index.php?title=Earthquake&oldid=1363840837"
+      }
+    },
+    {
+      "sourceId": "wikipedia-earthquake-warning-system",
+      "comparisonMode": "automatic",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Earthquake_warning_system",
+      "retrievedAt": "2026-07-14T08:47:18.733Z",
+      "extractor": {
+        "tool": "wikipedia-action-api",
+        "version": "v0.11.0",
+        "schemaVersion": 1,
+        "sourceFormat": "mediawiki-json-extract"
+      },
+      "originalSha256": "263ca62ee4aec5715993e645747468928e511c56016f4ced61334fc82a89a770",
+      "textSha256": "3287f0aeff045943c26535f6fd1e30d1625f54b67d370a51c7386cd3908bdf8d",
+      "wordCount": 4011,
+      "retrieval": {
+        "captureMode": "network",
+        "apiEndpoint": "https://en.wikipedia.org/w/api.php",
+        "requestedUrl": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=extracts%7Crevisions&explaintext=1&rvprop=ids%7Ctimestamp&redirects=1&titles=Earthquake+warning+system&maxlag=5",
+        "finalUrl": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=extracts%7Crevisions&explaintext=1&rvprop=ids%7Ctimestamp&redirects=1&titles=Earthquake+warning+system&maxlag=5",
+        "httpStatus": 200,
+        "contentType": "application/json; charset=utf-8",
+        "retrievedAt": "2026-07-14T08:47:18.733Z",
+        "byteLength": 28038,
+        "tool": {
+          "name": "coursewerk",
+          "version": "v0.11.0"
+        },
+        "pageId": 8327348,
+        "revisionId": 1361755548,
+        "revisionTimestamp": "2026-06-29T22:00:50Z",
+        "title": "Earthquake early warning system",
+        "resolvedUrl": "https://en.wikipedia.org/wiki/Earthquake_early_warning_system",
+        "permanentUrl": "https://en.wikipedia.org/w/index.php?title=Earthquake_early_warning_system&oldid=1361755548"
+      }
+    },
+    {
+      "sourceId": "wikipedia-lithosphere",
+      "comparisonMode": "automatic",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Lithosphere",
+      "retrievedAt": "2026-07-14T08:47:11.453Z",
+      "extractor": {
+        "tool": "wikipedia-action-api",
+        "version": "v0.11.0",
+        "schemaVersion": 1,
+        "sourceFormat": "mediawiki-json-extract"
+      },
+      "originalSha256": "303758f11a40f1e5f371afdb244b6c76e6ed9e4a2d1e19d9a1a89eaa3b1ab573",
+      "textSha256": "281924e2487992ce0904d24d80a3aed7de7c63eb057b7c2fba1319dffc7c47ff",
+      "wordCount": 1212,
+      "retrieval": {
+        "captureMode": "network",
+        "apiEndpoint": "https://en.wikipedia.org/w/api.php",
+        "requestedUrl": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=extracts%7Crevisions&explaintext=1&rvprop=ids%7Ctimestamp&redirects=1&titles=Lithosphere&maxlag=5",
+        "finalUrl": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=extracts%7Crevisions&explaintext=1&rvprop=ids%7Ctimestamp&redirects=1&titles=Lithosphere&maxlag=5",
+        "httpStatus": 200,
+        "contentType": "application/json; charset=utf-8",
+        "retrievedAt": "2026-07-14T08:47:11.453Z",
+        "byteLength": 8608,
+        "tool": {
+          "name": "coursewerk",
+          "version": "v0.11.0"
+        },
+        "pageId": 145716,
+        "revisionId": 1334661496,
+        "revisionTimestamp": "2026-01-24T22:45:28Z",
+        "title": "Lithosphere",
+        "resolvedUrl": "https://en.wikipedia.org/wiki/Lithosphere",
+        "permanentUrl": "https://en.wikipedia.org/w/index.php?title=Lithosphere&oldid=1334661496"
+      }
+    },
+    {
+      "sourceId": "wikipedia-paleomagnetism",
+      "comparisonMode": "automatic",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Paleomagnetism",
+      "retrievedAt": "2026-07-14T08:47:12.281Z",
+      "extractor": {
+        "tool": "wikipedia-action-api",
+        "version": "v0.11.0",
+        "schemaVersion": 1,
+        "sourceFormat": "mediawiki-json-extract"
+      },
+      "originalSha256": "acb5d51472e75e771735742a81378ec5dceb8107c4517b7f3299fb351d11cd1e",
+      "textSha256": "743ba8de03c44826fab5eb71b69665fc679408bd1696e218a349a32a44bba2c1",
+      "wordCount": 1630,
+      "retrieval": {
+        "captureMode": "network",
+        "apiEndpoint": "https://en.wikipedia.org/w/api.php",
+        "requestedUrl": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=extracts%7Crevisions&explaintext=1&rvprop=ids%7Ctimestamp&redirects=1&titles=Paleomagnetism&maxlag=5",
+        "finalUrl": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=extracts%7Crevisions&explaintext=1&rvprop=ids%7Ctimestamp&redirects=1&titles=Paleomagnetism&maxlag=5",
+        "httpStatus": 200,
+        "contentType": "application/json; charset=utf-8",
+        "retrievedAt": "2026-07-14T08:47:12.281Z",
+        "byteLength": 11387,
+        "tool": {
+          "name": "coursewerk",
+          "version": "v0.11.0"
+        },
+        "pageId": 842360,
+        "revisionId": 1347559357,
+        "revisionTimestamp": "2026-04-07T12:14:51Z",
+        "title": "Paleomagnetism",
+        "resolvedUrl": "https://en.wikipedia.org/wiki/Paleomagnetism",
+        "permanentUrl": "https://en.wikipedia.org/w/index.php?title=Paleomagnetism&oldid=1347559357"
+      }
+    },
+    {
+      "sourceId": "wikipedia-plate-tectonics",
+      "comparisonMode": "automatic",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Plate_tectonics",
+      "retrievedAt": "2026-07-14T08:47:10.251Z",
+      "extractor": {
+        "tool": "wikipedia-action-api",
+        "version": "v0.11.0",
+        "schemaVersion": 1,
+        "sourceFormat": "mediawiki-json-extract"
+      },
+      "originalSha256": "ad2b4f5a2f4f9da4ea6ab955e96e62c66dc40e27970030170ae558b9259aca16",
+      "textSha256": "43dc15aa80fb051f05023ed2e9a9cadf2bb4b57e60332f0c4e2e0fb2777da1d4",
+      "wordCount": 9178,
+      "retrieval": {
+        "captureMode": "network",
+        "apiEndpoint": "https://en.wikipedia.org/w/api.php",
+        "requestedUrl": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=extracts%7Crevisions&explaintext=1&rvprop=ids%7Ctimestamp&redirects=1&titles=Plate+tectonics&maxlag=5",
+        "finalUrl": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=extracts%7Crevisions&explaintext=1&rvprop=ids%7Ctimestamp&redirects=1&titles=Plate+tectonics&maxlag=5",
+        "httpStatus": 200,
+        "contentType": "application/json; charset=utf-8",
+        "retrievedAt": "2026-07-14T08:47:10.251Z",
+        "byteLength": 59683,
+        "tool": {
+          "name": "coursewerk",
+          "version": "v0.11.0"
+        },
+        "pageId": 24944,
+        "revisionId": 1363980827,
+        "revisionTimestamp": "2026-07-13T18:39:36Z",
+        "title": "Plate tectonics",
+        "resolvedUrl": "https://en.wikipedia.org/wiki/Plate_tectonics",
+        "permanentUrl": "https://en.wikipedia.org/w/index.php?title=Plate_tectonics&oldid=1363980827"
+      }
+    },
+    {
+      "sourceId": "wikipedia-seafloor-spreading",
+      "comparisonMode": "automatic",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Seafloor_spreading",
+      "retrievedAt": "2026-07-14T08:47:11.753Z",
+      "extractor": {
+        "tool": "wikipedia-action-api",
+        "version": "v0.11.0",
+        "schemaVersion": 1,
+        "sourceFormat": "mediawiki-json-extract"
+      },
+      "originalSha256": "a098e6f2ce421294fdfe6ddcf9f6b941c4f037d014c58d29e36c05b2d66726ff",
+      "textSha256": "35ea1e935b3b86b3e736b5835f950fef6b1a363c6a4a3dd5c8faacc35df5ea9f",
+      "wordCount": 3116,
+      "retrieval": {
+        "captureMode": "network",
+        "apiEndpoint": "https://en.wikipedia.org/w/api.php",
+        "requestedUrl": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=extracts%7Crevisions&explaintext=1&rvprop=ids%7Ctimestamp&redirects=1&titles=Seafloor+spreading&maxlag=5",
+        "finalUrl": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=extracts%7Crevisions&explaintext=1&rvprop=ids%7Ctimestamp&redirects=1&titles=Seafloor+spreading&maxlag=5",
+        "httpStatus": 200,
+        "contentType": "application/json; charset=utf-8",
+        "retrievedAt": "2026-07-14T08:47:11.753Z",
+        "byteLength": 33028,
+        "tool": {
+          "name": "coursewerk",
+          "version": "v0.11.0"
+        },
+        "pageId": 145698,
+        "revisionId": 1335178909,
+        "revisionTimestamp": "2026-01-27T20:15:09Z",
+        "title": "Seafloor spreading",
+        "resolvedUrl": "https://en.wikipedia.org/wiki/Seafloor_spreading",
+        "permanentUrl": "https://en.wikipedia.org/w/index.php?title=Seafloor_spreading&oldid=1335178909"
+      }
+    },
+    {
+      "sourceId": "wikipedia-tsunami",
+      "comparisonMode": "automatic",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Tsunami",
+      "retrievedAt": "2026-07-14T08:47:18.340Z",
+      "extractor": {
+        "tool": "wikipedia-action-api",
+        "version": "v0.11.0",
+        "schemaVersion": 1,
+        "sourceFormat": "mediawiki-json-extract"
+      },
+      "originalSha256": "09de51144de1021687709367f00c9357132f099e06464ce6c466a96fd1e9818a",
+      "textSha256": "1239c73a0bc0662b4180c150c522e73c7da838d7b19a4080e7a9e36884592c5c",
+      "wordCount": 5712,
+      "retrieval": {
+        "captureMode": "network",
+        "apiEndpoint": "https://en.wikipedia.org/w/api.php",
+        "requestedUrl": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=extracts%7Crevisions&explaintext=1&rvprop=ids%7Ctimestamp&redirects=1&titles=Tsunami&maxlag=5",
+        "finalUrl": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=extracts%7Crevisions&explaintext=1&rvprop=ids%7Ctimestamp&redirects=1&titles=Tsunami&maxlag=5",
+        "httpStatus": 200,
+        "contentType": "application/json; charset=utf-8",
+        "retrievedAt": "2026-07-14T08:47:18.340Z",
+        "byteLength": 38324,
+        "tool": {
+          "name": "coursewerk",
+          "version": "v0.11.0"
+        },
+        "pageId": 31161,
+        "revisionId": 1363296490,
+        "revisionTimestamp": "2026-07-09T08:25:52Z",
+        "title": "Tsunami",
+        "resolvedUrl": "https://en.wikipedia.org/wiki/Tsunami",
+        "permanentUrl": "https://en.wikipedia.org/w/index.php?title=Tsunami&oldid=1363296490"
+      }
+    },
+    {
+      "sourceId": "wikipedia-volcano",
+      "comparisonMode": "automatic",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Volcano",
+      "retrievedAt": "2026-07-14T08:47:17.904Z",
+      "extractor": {
+        "tool": "wikipedia-action-api",
+        "version": "v0.11.0",
+        "schemaVersion": 1,
+        "sourceFormat": "mediawiki-json-extract"
+      },
+      "originalSha256": "5010f381d1fb1121df223d47fa17809abef2c5826004eaea0c48817839d78dd3",
+      "textSha256": "8494fc2d8395684f921f86eff3319436e060354363e854e9f3b4bde1169ea6da",
+      "wordCount": 7579,
+      "retrieval": {
+        "captureMode": "network",
+        "apiEndpoint": "https://en.wikipedia.org/w/api.php",
+        "requestedUrl": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=extracts%7Crevisions&explaintext=1&rvprop=ids%7Ctimestamp&redirects=1&titles=Volcano&maxlag=5",
+        "finalUrl": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=extracts%7Crevisions&explaintext=1&rvprop=ids%7Ctimestamp&redirects=1&titles=Volcano&maxlag=5",
+        "httpStatus": 200,
+        "contentType": "application/json; charset=utf-8",
+        "retrievedAt": "2026-07-14T08:47:17.904Z",
+        "byteLength": 49276,
+        "tool": {
+          "name": "coursewerk",
+          "version": "v0.11.0"
+        },
+        "pageId": 32571,
+        "revisionId": 1359260399,
+        "revisionTimestamp": "2026-06-14T05:13:07Z",
+        "title": "Volcano",
+        "resolvedUrl": "https://en.wikipedia.org/wiki/Volcano",
+        "permanentUrl": "https://en.wikipedia.org/w/index.php?title=Volcano&oldid=1359260399"
+      }
+    },
+    {
+      "sourceId": "wikipedia-wilson-cycle",
+      "comparisonMode": "automatic",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Wilson_Cycle",
+      "retrievedAt": "2026-07-14T08:47:12.640Z",
+      "extractor": {
+        "tool": "wikipedia-action-api",
+        "version": "v0.11.0",
+        "schemaVersion": 1,
+        "sourceFormat": "mediawiki-json-extract"
+      },
+      "originalSha256": "17a0d6d249140f3e98705578c01833d8f9216281d14de64eb6b834f47a65d3df",
+      "textSha256": "99a6900a94c952ea6ade74056b377384ff2a3a7fb1f6fe300368c96fb31e0ebd",
+      "wordCount": 592,
+      "retrieval": {
+        "captureMode": "network",
+        "apiEndpoint": "https://en.wikipedia.org/w/api.php",
+        "requestedUrl": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=extracts%7Crevisions&explaintext=1&rvprop=ids%7Ctimestamp&redirects=1&titles=Wilson+Cycle&maxlag=5",
+        "finalUrl": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=extracts%7Crevisions&explaintext=1&rvprop=ids%7Ctimestamp&redirects=1&titles=Wilson+Cycle&maxlag=5",
+        "httpStatus": 200,
+        "contentType": "application/json; charset=utf-8",
+        "retrievedAt": "2026-07-14T08:47:12.640Z",
+        "byteLength": 4032,
+        "tool": {
+          "name": "coursewerk",
+          "version": "v0.11.0"
+        },
+        "pageId": 2113849,
+        "revisionId": 1360746860,
+        "revisionTimestamp": "2026-06-23T09:44:27Z",
+        "title": "Wilson Cycle",
+        "resolvedUrl": "https://en.wikipedia.org/wiki/Wilson_Cycle",
+        "permanentUrl": "https://en.wikipedia.org/w/index.php?title=Wilson_Cycle&oldid=1360746860"
+      }
+    }
+  ]
+}

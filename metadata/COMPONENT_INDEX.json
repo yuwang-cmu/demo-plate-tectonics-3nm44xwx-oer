@@ -1,0 +1,1546 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-14T09:45:47.556Z",
+  "components": [
+    {
+      "id": "component:alembic.json",
+      "path": "alembic.json",
+      "type": "manifest",
+      "chapter": null,
+      "hash": "0995afff38e413757c34264facfd8512309301237544aa2ec4d6a03cef8d688d",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:assessment-support/plate-tectonics.md",
+      "path": "assessment-support/plate-tectonics.md",
+      "type": "assessment-support",
+      "chapter": "plate-tectonics",
+      "hash": "8b9b688b19f630d006f09086cc60c0f2306b32e1ffd8f038084167014cec92c1",
+      "dependencies": {
+        "component:alembic.json": "0995afff38e413757c34264facfd8512309301237544aa2ec4d6a03cef8d688d",
+        "component:concepts/plate-tectonics.md": "3060bb1b26ebe79a16bd2c6a161df06ae7f0250eeb507abbbfabc8a04e593878",
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980",
+        "component:metadata/SOURCE_RECORD.json": "a3c4e96bc567175597f65425e38977bc351f1e3590ff355bf5539275dd5b1698",
+        "component:study-guide/plate-tectonics.md": "5b869235f1935a79d2b6bcbdacceb941cef5cac8df748c8787c32c8c80a9f1cc"
+      }
+    },
+    {
+      "id": "component:assessment-support/tectonic-hazards.md",
+      "path": "assessment-support/tectonic-hazards.md",
+      "type": "assessment-support",
+      "chapter": "tectonic-hazards",
+      "hash": "6b0eb5edc58e003eee0617bc74823ea633dda833adfc97cf81829f83af9aedee",
+      "dependencies": {
+        "component:alembic.json": "0995afff38e413757c34264facfd8512309301237544aa2ec4d6a03cef8d688d",
+        "component:concepts/tectonic-hazards.md": "d8d6f96b4a42965e7102b42b4e42925761f39319adb0360b15976a003a072e2f",
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980",
+        "component:metadata/SOURCE_RECORD.json": "a3c4e96bc567175597f65425e38977bc351f1e3590ff355bf5539275dd5b1698",
+        "component:study-guide/tectonic-hazards.md": "91ffc300c1b3de8abd313386b4e64ee8a90f093c157ac9c71019ca825227d1fd"
+      }
+    },
+    {
+      "id": "component:assets/elastic-rebound-cycle.svg",
+      "path": "assets/elastic-rebound-cycle.svg",
+      "type": "asset",
+      "chapter": null,
+      "hash": "f6b14a6c898d61758728b6786e06f09e2ab0cdddede03d703c7743ada211493c",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:assets/hazard-risk-chain.svg",
+      "path": "assets/hazard-risk-chain.svg",
+      "type": "asset",
+      "chapter": null,
+      "hash": "da8ff5df733cd3721eb979690cfbdf0c42d93f689f365440673f3dd286353c46",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:assets/hunga-tonga-plume.jpg",
+      "path": "assets/hunga-tonga-plume.jpg",
+      "type": "asset",
+      "chapter": null,
+      "hash": "98e9fe5bd99b789c35f93d1e8193b7b755c3a13abcfd2239425f76e95f1545bc",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:assets/lithosphere-asthenosphere.svg",
+      "path": "assets/lithosphere-asthenosphere.svg",
+      "type": "asset",
+      "chapter": null,
+      "hash": "10e2fcd8212c37c331a4daf04b535584a5077a878a1dc110052f450911a53d8f",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:assets/magnetic-stripes.svg",
+      "path": "assets/magnetic-stripes.svg",
+      "type": "asset",
+      "chapter": null,
+      "hash": "5cdc4d7f0f67f270ffa214ebf2073cbc0b5d9d303bdafc2d6a3952e603aa5d27",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:assets/pillow-lava-loihi.jpg",
+      "path": "assets/pillow-lava-loihi.jpg",
+      "type": "asset",
+      "chapter": null,
+      "hash": "0d3baf848dd9caa88fd38d1b46b916bfdbc934946896bd33f3ee9b268c5a614a",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:assets/plate-boundary-types.svg",
+      "path": "assets/plate-boundary-types.svg",
+      "type": "asset",
+      "chapter": null,
+      "hash": "afe98f7dc9dcd9c3fb9f63549e8bc441609bb2816370728fd735225a99985c86",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:assets/ridgecrest-road-offset.jpg",
+      "path": "assets/ridgecrest-road-offset.jpg",
+      "type": "asset",
+      "chapter": null,
+      "hash": "fee2994611d2fd118d9e3f08c2e9073244b87e84a54fe63ce782da7ab460373e",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:assets/thingvellir-rift.jpg",
+      "path": "assets/thingvellir-rift.jpg",
+      "type": "asset",
+      "chapter": null,
+      "hash": "f3621f008ef146d53eef152dac39938e99cb37e77573b939caf13ceb5ecebc24",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:assets/tsunami-shoaling.svg",
+      "path": "assets/tsunami-shoaling.svg",
+      "type": "asset",
+      "chapter": null,
+      "hash": "91c36575b58c5bedbb91c50c51aed28a7443865e0276cee05b78a7662ab7d5fd",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:assets/wilson-cycle.svg",
+      "path": "assets/wilson-cycle.svg",
+      "type": "asset",
+      "chapter": null,
+      "hash": "c2a6ef7d741e33dc3903e7746e3e1531b0531d85ae41f5e2dee8b847f48548f8",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:concepts/course.md",
+      "path": "concepts/course.md",
+      "type": "concepts",
+      "chapter": null,
+      "hash": "0ad3069f7a39003e8c607037942b0e1e1a5d253f208a74228bafa93a1c683984",
+      "dependencies": {
+        "component:alembic.json": "0995afff38e413757c34264facfd8512309301237544aa2ec4d6a03cef8d688d",
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980",
+        "component:metadata/SOURCE_RECORD.json": "a3c4e96bc567175597f65425e38977bc351f1e3590ff355bf5539275dd5b1698"
+      }
+    },
+    {
+      "id": "component:concepts/plate-tectonics.md",
+      "path": "concepts/plate-tectonics.md",
+      "type": "concepts",
+      "chapter": "plate-tectonics",
+      "hash": "3060bb1b26ebe79a16bd2c6a161df06ae7f0250eeb507abbbfabc8a04e593878",
+      "dependencies": {
+        "component:alembic.json": "0995afff38e413757c34264facfd8512309301237544aa2ec4d6a03cef8d688d",
+        "component:concepts/course.md": "0ad3069f7a39003e8c607037942b0e1e1a5d253f208a74228bafa93a1c683984",
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980",
+        "component:metadata/SOURCE_RECORD.json": "a3c4e96bc567175597f65425e38977bc351f1e3590ff355bf5539275dd5b1698"
+      }
+    },
+    {
+      "id": "component:concepts/tectonic-hazards.md",
+      "path": "concepts/tectonic-hazards.md",
+      "type": "concepts",
+      "chapter": "tectonic-hazards",
+      "hash": "d8d6f96b4a42965e7102b42b4e42925761f39319adb0360b15976a003a072e2f",
+      "dependencies": {
+        "component:alembic.json": "0995afff38e413757c34264facfd8512309301237544aa2ec4d6a03cef8d688d",
+        "component:concepts/course.md": "0ad3069f7a39003e8c607037942b0e1e1a5d253f208a74228bafa93a1c683984",
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980",
+        "component:metadata/SOURCE_RECORD.json": "a3c4e96bc567175597f65425e38977bc351f1e3590ff355bf5539275dd5b1698"
+      }
+    },
+    {
+      "id": "component:LICENSE",
+      "path": "LICENSE",
+      "type": "license",
+      "chapter": null,
+      "hash": "23ee78c8bae49cf08ea2f0c84945c66b987ebe4520881fb51b3dad4fb43d07c2",
+      "dependencies": {
+        "component:alembic.json": "0995afff38e413757c34264facfd8512309301237544aa2ec4d6a03cef8d688d",
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/ATTRIBUTION.md",
+      "path": "metadata/ATTRIBUTION.md",
+      "type": "attribution",
+      "chapter": null,
+      "hash": "620e0e6e58418cbe49bf8a66271732215122f0664565bdd5ff440e0a8b8559af",
+      "dependencies": {
+        "component:alembic.json": "0995afff38e413757c34264facfd8512309301237544aa2ec4d6a03cef8d688d",
+        "component:assets/elastic-rebound-cycle.svg": "f6b14a6c898d61758728b6786e06f09e2ab0cdddede03d703c7743ada211493c",
+        "component:assets/hazard-risk-chain.svg": "da8ff5df733cd3721eb979690cfbdf0c42d93f689f365440673f3dd286353c46",
+        "component:assets/hunga-tonga-plume.jpg": "98e9fe5bd99b789c35f93d1e8193b7b755c3a13abcfd2239425f76e95f1545bc",
+        "component:assets/lithosphere-asthenosphere.svg": "10e2fcd8212c37c331a4daf04b535584a5077a878a1dc110052f450911a53d8f",
+        "component:assets/magnetic-stripes.svg": "5cdc4d7f0f67f270ffa214ebf2073cbc0b5d9d303bdafc2d6a3952e603aa5d27",
+        "component:assets/pillow-lava-loihi.jpg": "0d3baf848dd9caa88fd38d1b46b916bfdbc934946896bd33f3ee9b268c5a614a",
+        "component:assets/plate-boundary-types.svg": "afe98f7dc9dcd9c3fb9f63549e8bc441609bb2816370728fd735225a99985c86",
+        "component:assets/ridgecrest-road-offset.jpg": "fee2994611d2fd118d9e3f08c2e9073244b87e84a54fe63ce782da7ab460373e",
+        "component:assets/thingvellir-rift.jpg": "f3621f008ef146d53eef152dac39938e99cb37e77573b939caf13ceb5ecebc24",
+        "component:assets/tsunami-shoaling.svg": "91c36575b58c5bedbb91c50c51aed28a7443865e0276cee05b78a7662ab7d5fd",
+        "component:assets/wilson-cycle.svg": "c2a6ef7d741e33dc3903e7746e3e1531b0531d85ae41f5e2dee8b847f48548f8",
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980",
+        "component:metadata/PROVENANCE.json": "627a70ecfbced4d7f0dc83669d8bb52b8238dea6606f59cfa0ce4d9efe62db47"
+      }
+    },
+    {
+      "id": "component:metadata/evidence/hunga-tonga-plume.attrib.json",
+      "path": "metadata/evidence/hunga-tonga-plume.attrib.json",
+      "type": "support",
+      "chapter": null,
+      "hash": "9a74450a6964f911fece0309a5c1b65e09a88b19e9de1a5c343d9a88853278bf",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/evidence/media-photo-hunga-tonga-plume.html",
+      "path": "metadata/evidence/media-photo-hunga-tonga-plume.html",
+      "type": "support",
+      "chapter": null,
+      "hash": "f6ceffc9ec43e67f07bf622bae593df03fa42fc35ecbbb6bea9d27cad6ebd235",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/evidence/media-photo-pillow-lava-loihi.html",
+      "path": "metadata/evidence/media-photo-pillow-lava-loihi.html",
+      "type": "support",
+      "chapter": null,
+      "hash": "615d349c6c87b9150b82880aea7515e1ec1dc725c1b463a31795cca25279e895",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/evidence/media-photo-ridgecrest-road-offset.html",
+      "path": "metadata/evidence/media-photo-ridgecrest-road-offset.html",
+      "type": "support",
+      "chapter": null,
+      "hash": "2db80997020ace0f7544bb4c6cb0abdef9fe7d89536fa45a439b9e299e8008d8",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/evidence/media-photo-thingvellir-rift.html",
+      "path": "metadata/evidence/media-photo-thingvellir-rift.html",
+      "type": "support",
+      "chapter": null,
+      "hash": "954d233409df8d5cc2c0819f60a370956da0090d4472e5c6a3b04f20947b1607",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/evidence/ridgecrest-road-offset.attrib.json",
+      "path": "metadata/evidence/ridgecrest-road-offset.attrib.json",
+      "type": "support",
+      "chapter": null,
+      "hash": "7ee1e687fb531168dceeee1b68e4b1615ecc2471504921175801119ab132641a",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/evidence/wikipedia-earthquake.html",
+      "path": "metadata/evidence/wikipedia-earthquake.html",
+      "type": "support",
+      "chapter": null,
+      "hash": "6ba3c7ff64ccff2ae086950c212e0287ac271091aaa6d2a8ef6614dd5cbb3c4e",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/evidence/wikipedia-lithosphere.html",
+      "path": "metadata/evidence/wikipedia-lithosphere.html",
+      "type": "support",
+      "chapter": null,
+      "hash": "a0a5b4e1cffaba496512965bb9f7292a37dfbd980e2056d84dc80ac1deaa2c38",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/evidence/wikipedia-paleomagnetism.html",
+      "path": "metadata/evidence/wikipedia-paleomagnetism.html",
+      "type": "support",
+      "chapter": null,
+      "hash": "a0a5b4e1cffaba496512965bb9f7292a37dfbd980e2056d84dc80ac1deaa2c38",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/evidence/wikipedia-plate-tectonics.html",
+      "path": "metadata/evidence/wikipedia-plate-tectonics.html",
+      "type": "support",
+      "chapter": null,
+      "hash": "a0a5b4e1cffaba496512965bb9f7292a37dfbd980e2056d84dc80ac1deaa2c38",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/evidence/wikipedia-seafloor-spreading.html",
+      "path": "metadata/evidence/wikipedia-seafloor-spreading.html",
+      "type": "support",
+      "chapter": null,
+      "hash": "a0a5b4e1cffaba496512965bb9f7292a37dfbd980e2056d84dc80ac1deaa2c38",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/evidence/wikipedia-wilson-cycle.html",
+      "path": "metadata/evidence/wikipedia-wilson-cycle.html",
+      "type": "support",
+      "chapter": null,
+      "hash": "a0a5b4e1cffaba496512965bb9f7292a37dfbd980e2056d84dc80ac1deaa2c38",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/FOUNDATION.json",
+      "path": "metadata/FOUNDATION.json",
+      "type": "foundation",
+      "chapter": null,
+      "hash": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980",
+      "dependencies": {}
+    },
+    {
+      "id": "component:metadata/KEY_FACT_REVIEW.json",
+      "path": "metadata/KEY_FACT_REVIEW.json",
+      "type": "review",
+      "chapter": null,
+      "hash": "d050c2e14e86c561b75f1ae55313550bfcf046dad64f8795376def21109fff7d",
+      "dependencies": {
+        "component:alembic.json": "0995afff38e413757c34264facfd8512309301237544aa2ec4d6a03cef8d688d",
+        "component:assessment-support/plate-tectonics.md": "8b9b688b19f630d006f09086cc60c0f2306b32e1ffd8f038084167014cec92c1",
+        "component:assessment-support/tectonic-hazards.md": "6b0eb5edc58e003eee0617bc74823ea633dda833adfc97cf81829f83af9aedee",
+        "component:concepts/course.md": "0ad3069f7a39003e8c607037942b0e1e1a5d253f208a74228bafa93a1c683984",
+        "component:concepts/plate-tectonics.md": "3060bb1b26ebe79a16bd2c6a161df06ae7f0250eeb507abbbfabc8a04e593878",
+        "component:concepts/tectonic-hazards.md": "d8d6f96b4a42965e7102b42b4e42925761f39319adb0360b15976a003a072e2f",
+        "component:LICENSE": "23ee78c8bae49cf08ea2f0c84945c66b987ebe4520881fb51b3dad4fb43d07c2",
+        "component:metadata/ATTRIBUTION.md": "620e0e6e58418cbe49bf8a66271732215122f0664565bdd5ff440e0a8b8559af",
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980",
+        "component:metadata/PROVENANCE.json": "627a70ecfbced4d7f0dc83669d8bb52b8238dea6606f59cfa0ce4d9efe62db47",
+        "component:metadata/SOURCE_RECORD.json": "a3c4e96bc567175597f65425e38977bc351f1e3590ff355bf5539275dd5b1698",
+        "component:practice/plate-tectonics.md": "cd6297f25995a84f9d51d3956c10b9737587828e5f7c4ccad6107cbe0df5105b",
+        "component:practice/tectonic-hazards.md": "3c95901f13ecbdb1b5c7e3243182c863bdf4a19cb06583bb435bfb2c947695b9",
+        "component:slides/plate-tectonics.md": "d21d87a3254e050280f36462930732c8df94110c827b0c3693a678499145e417",
+        "component:slides/tectonic-hazards.md": "1807ce41f4c358c3007514b0a71cc795eb05e19d367230993622f47320c6a96f",
+        "component:study-guide/plate-tectonics.md": "5b869235f1935a79d2b6bcbdacceb941cef5cac8df748c8787c32c8c80a9f1cc",
+        "component:study-guide/tectonic-hazards.md": "91ffc300c1b3de8abd313386b4e64ee8a90f093c157ac9c71019ca825227d1fd"
+      }
+    },
+    {
+      "id": "component:metadata/MEDIA_PLAN.json",
+      "path": "metadata/MEDIA_PLAN.json",
+      "type": "support",
+      "chapter": null,
+      "hash": "e33f6872b2c16de056cf1b0c922463fd98cc95e480bc7a162c8bb6e8b6b7110b",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/preflight/wikipedia-earthquake-warning-system.json",
+      "path": "metadata/preflight/wikipedia-earthquake-warning-system.json",
+      "type": "support",
+      "chapter": null,
+      "hash": "87d5994511f450a27e9ab1435919336c67685b000f54396795209574919b1072",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/preflight/wikipedia-earthquake.json",
+      "path": "metadata/preflight/wikipedia-earthquake.json",
+      "type": "support",
+      "chapter": null,
+      "hash": "d02b11e31eb469c9581d49a72858a59c094ea980857e3a1f9aae733fc797a57f",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/preflight/wikipedia-lithosphere.json",
+      "path": "metadata/preflight/wikipedia-lithosphere.json",
+      "type": "support",
+      "chapter": null,
+      "hash": "b4a88968ed8266e84c1c1d3b2e8fba71fa40858f071cd1d5220ef5db093815f7",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/preflight/wikipedia-paleomagnetism.json",
+      "path": "metadata/preflight/wikipedia-paleomagnetism.json",
+      "type": "support",
+      "chapter": null,
+      "hash": "0eae9f49c6e53b7d06b7bbd61603a47b947e1e0a5cb90d2b310b19b19ca12db6",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/preflight/wikipedia-plate-tectonics.json",
+      "path": "metadata/preflight/wikipedia-plate-tectonics.json",
+      "type": "support",
+      "chapter": null,
+      "hash": "249418d7359666419ace4fc1d4ced8a41687284bf480d9f2db693f7b339bcd1e",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/preflight/wikipedia-seafloor-spreading.json",
+      "path": "metadata/preflight/wikipedia-seafloor-spreading.json",
+      "type": "support",
+      "chapter": null,
+      "hash": "250922420ace307dff3795ee56fb2974dc87edc6c222c0c0bced3aba0b236f4f",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/preflight/wikipedia-tsunami.json",
+      "path": "metadata/preflight/wikipedia-tsunami.json",
+      "type": "support",
+      "chapter": null,
+      "hash": "741a9bf876b1ed0970f67e6639935737008bd5e99512ad16fb9b0c5e3b3a7300",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/preflight/wikipedia-volcano.json",
+      "path": "metadata/preflight/wikipedia-volcano.json",
+      "type": "support",
+      "chapter": null,
+      "hash": "d8a9d81f954b3c8885772668b2ef8f47bb0fb3696bb9e30c1e78848a8fa67f10",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/preflight/wikipedia-wilson-cycle.json",
+      "path": "metadata/preflight/wikipedia-wilson-cycle.json",
+      "type": "support",
+      "chapter": null,
+      "hash": "190e98c03e8e285713459d23758f72833bfb43d8ec45f54ffc05e6ca03e7f5cd",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/PROVENANCE.json",
+      "path": "metadata/PROVENANCE.json",
+      "type": "provenance",
+      "chapter": null,
+      "hash": "627a70ecfbced4d7f0dc83669d8bb52b8238dea6606f59cfa0ce4d9efe62db47",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/SOURCE_RECORD.json",
+      "path": "metadata/SOURCE_RECORD.json",
+      "type": "source-record",
+      "chapter": null,
+      "hash": "a3c4e96bc567175597f65425e38977bc351f1e3590ff355bf5539275dd5b1698",
+      "dependencies": {
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:metadata/VISUAL_REVIEW.json",
+      "path": "metadata/VISUAL_REVIEW.json",
+      "type": "review",
+      "chapter": null,
+      "hash": "4f6f24aca5411672d8643a99724d2b82ec06c38638f9c8fb17eb1f548d822f44",
+      "dependencies": {
+        "component:assets/elastic-rebound-cycle.svg": "f6b14a6c898d61758728b6786e06f09e2ab0cdddede03d703c7743ada211493c",
+        "component:assets/hazard-risk-chain.svg": "da8ff5df733cd3721eb979690cfbdf0c42d93f689f365440673f3dd286353c46",
+        "component:assets/hunga-tonga-plume.jpg": "98e9fe5bd99b789c35f93d1e8193b7b755c3a13abcfd2239425f76e95f1545bc",
+        "component:assets/lithosphere-asthenosphere.svg": "10e2fcd8212c37c331a4daf04b535584a5077a878a1dc110052f450911a53d8f",
+        "component:assets/magnetic-stripes.svg": "5cdc4d7f0f67f270ffa214ebf2073cbc0b5d9d303bdafc2d6a3952e603aa5d27",
+        "component:assets/pillow-lava-loihi.jpg": "0d3baf848dd9caa88fd38d1b46b916bfdbc934946896bd33f3ee9b268c5a614a",
+        "component:assets/plate-boundary-types.svg": "afe98f7dc9dcd9c3fb9f63549e8bc441609bb2816370728fd735225a99985c86",
+        "component:assets/ridgecrest-road-offset.jpg": "fee2994611d2fd118d9e3f08c2e9073244b87e84a54fe63ce782da7ab460373e",
+        "component:assets/thingvellir-rift.jpg": "f3621f008ef146d53eef152dac39938e99cb37e77573b939caf13ceb5ecebc24",
+        "component:assets/tsunami-shoaling.svg": "91c36575b58c5bedbb91c50c51aed28a7443865e0276cee05b78a7662ab7d5fd",
+        "component:assets/wilson-cycle.svg": "c2a6ef7d741e33dc3903e7746e3e1531b0531d85ae41f5e2dee8b847f48548f8",
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980",
+        "component:practice/plate-tectonics.md": "cd6297f25995a84f9d51d3956c10b9737587828e5f7c4ccad6107cbe0df5105b",
+        "component:practice/tectonic-hazards.md": "3c95901f13ecbdb1b5c7e3243182c863bdf4a19cb06583bb435bfb2c947695b9",
+        "component:slides/plate-tectonics.md": "d21d87a3254e050280f36462930732c8df94110c827b0c3693a678499145e417",
+        "component:slides/tectonic-hazards.md": "1807ce41f4c358c3007514b0a71cc795eb05e19d367230993622f47320c6a96f",
+        "component:study-guide/plate-tectonics.md": "5b869235f1935a79d2b6bcbdacceb941cef5cac8df748c8787c32c8c80a9f1cc",
+        "component:study-guide/tectonic-hazards.md": "91ffc300c1b3de8abd313386b4e64ee8a90f093c157ac9c71019ca825227d1fd"
+      }
+    },
+    {
+      "id": "component:practice/plate-tectonics.md",
+      "path": "practice/plate-tectonics.md",
+      "type": "practice",
+      "chapter": "plate-tectonics",
+      "hash": "cd6297f25995a84f9d51d3956c10b9737587828e5f7c4ccad6107cbe0df5105b",
+      "dependencies": {
+        "component:alembic.json": "0995afff38e413757c34264facfd8512309301237544aa2ec4d6a03cef8d688d",
+        "component:assessment-support/plate-tectonics.md": "8b9b688b19f630d006f09086cc60c0f2306b32e1ffd8f038084167014cec92c1",
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980",
+        "component:metadata/SOURCE_RECORD.json": "a3c4e96bc567175597f65425e38977bc351f1e3590ff355bf5539275dd5b1698",
+        "component:study-guide/plate-tectonics.md": "5b869235f1935a79d2b6bcbdacceb941cef5cac8df748c8787c32c8c80a9f1cc"
+      }
+    },
+    {
+      "id": "component:practice/tectonic-hazards.md",
+      "path": "practice/tectonic-hazards.md",
+      "type": "practice",
+      "chapter": "tectonic-hazards",
+      "hash": "3c95901f13ecbdb1b5c7e3243182c863bdf4a19cb06583bb435bfb2c947695b9",
+      "dependencies": {
+        "component:alembic.json": "0995afff38e413757c34264facfd8512309301237544aa2ec4d6a03cef8d688d",
+        "component:assessment-support/tectonic-hazards.md": "6b0eb5edc58e003eee0617bc74823ea633dda833adfc97cf81829f83af9aedee",
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980",
+        "component:metadata/SOURCE_RECORD.json": "a3c4e96bc567175597f65425e38977bc351f1e3590ff355bf5539275dd5b1698",
+        "component:study-guide/tectonic-hazards.md": "91ffc300c1b3de8abd313386b4e64ee8a90f093c157ac9c71019ca825227d1fd"
+      }
+    },
+    {
+      "id": "component:README.md",
+      "path": "README.md",
+      "type": "readme",
+      "chapter": null,
+      "hash": "49320044b4f719b3b687070e33bf73bd8be1ec6d2e66652f4f9c233a5e20ff22",
+      "dependencies": {
+        "component:alembic.json": "0995afff38e413757c34264facfd8512309301237544aa2ec4d6a03cef8d688d",
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980"
+      }
+    },
+    {
+      "id": "component:slides/plate-tectonics.md",
+      "path": "slides/plate-tectonics.md",
+      "type": "slides",
+      "chapter": "plate-tectonics",
+      "hash": "d21d87a3254e050280f36462930732c8df94110c827b0c3693a678499145e417",
+      "dependencies": {
+        "component:alembic.json": "0995afff38e413757c34264facfd8512309301237544aa2ec4d6a03cef8d688d",
+        "component:assets/lithosphere-asthenosphere.svg": "10e2fcd8212c37c331a4daf04b535584a5077a878a1dc110052f450911a53d8f",
+        "component:assets/magnetic-stripes.svg": "5cdc4d7f0f67f270ffa214ebf2073cbc0b5d9d303bdafc2d6a3952e603aa5d27",
+        "component:assets/pillow-lava-loihi.jpg": "0d3baf848dd9caa88fd38d1b46b916bfdbc934946896bd33f3ee9b268c5a614a",
+        "component:assets/plate-boundary-types.svg": "afe98f7dc9dcd9c3fb9f63549e8bc441609bb2816370728fd735225a99985c86",
+        "component:assets/thingvellir-rift.jpg": "f3621f008ef146d53eef152dac39938e99cb37e77573b939caf13ceb5ecebc24",
+        "component:assets/wilson-cycle.svg": "c2a6ef7d741e33dc3903e7746e3e1531b0531d85ae41f5e2dee8b847f48548f8",
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980",
+        "component:metadata/PROVENANCE.json": "627a70ecfbced4d7f0dc83669d8bb52b8238dea6606f59cfa0ce4d9efe62db47",
+        "component:metadata/SOURCE_RECORD.json": "a3c4e96bc567175597f65425e38977bc351f1e3590ff355bf5539275dd5b1698",
+        "component:study-guide/plate-tectonics.md": "5b869235f1935a79d2b6bcbdacceb941cef5cac8df748c8787c32c8c80a9f1cc"
+      }
+    },
+    {
+      "id": "component:slides/tectonic-hazards.md",
+      "path": "slides/tectonic-hazards.md",
+      "type": "slides",
+      "chapter": "tectonic-hazards",
+      "hash": "1807ce41f4c358c3007514b0a71cc795eb05e19d367230993622f47320c6a96f",
+      "dependencies": {
+        "component:alembic.json": "0995afff38e413757c34264facfd8512309301237544aa2ec4d6a03cef8d688d",
+        "component:assets/elastic-rebound-cycle.svg": "f6b14a6c898d61758728b6786e06f09e2ab0cdddede03d703c7743ada211493c",
+        "component:assets/hazard-risk-chain.svg": "da8ff5df733cd3721eb979690cfbdf0c42d93f689f365440673f3dd286353c46",
+        "component:assets/hunga-tonga-plume.jpg": "98e9fe5bd99b789c35f93d1e8193b7b755c3a13abcfd2239425f76e95f1545bc",
+        "component:assets/ridgecrest-road-offset.jpg": "fee2994611d2fd118d9e3f08c2e9073244b87e84a54fe63ce782da7ab460373e",
+        "component:assets/tsunami-shoaling.svg": "91c36575b58c5bedbb91c50c51aed28a7443865e0276cee05b78a7662ab7d5fd",
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980",
+        "component:metadata/PROVENANCE.json": "627a70ecfbced4d7f0dc83669d8bb52b8238dea6606f59cfa0ce4d9efe62db47",
+        "component:metadata/SOURCE_RECORD.json": "a3c4e96bc567175597f65425e38977bc351f1e3590ff355bf5539275dd5b1698",
+        "component:study-guide/tectonic-hazards.md": "91ffc300c1b3de8abd313386b4e64ee8a90f093c157ac9c71019ca825227d1fd"
+      }
+    },
+    {
+      "id": "component:study-guide/plate-tectonics.md",
+      "path": "study-guide/plate-tectonics.md",
+      "type": "study-guide",
+      "chapter": "plate-tectonics",
+      "hash": "5b869235f1935a79d2b6bcbdacceb941cef5cac8df748c8787c32c8c80a9f1cc",
+      "dependencies": {
+        "component:alembic.json": "0995afff38e413757c34264facfd8512309301237544aa2ec4d6a03cef8d688d",
+        "component:assets/lithosphere-asthenosphere.svg": "10e2fcd8212c37c331a4daf04b535584a5077a878a1dc110052f450911a53d8f",
+        "component:assets/magnetic-stripes.svg": "5cdc4d7f0f67f270ffa214ebf2073cbc0b5d9d303bdafc2d6a3952e603aa5d27",
+        "component:assets/pillow-lava-loihi.jpg": "0d3baf848dd9caa88fd38d1b46b916bfdbc934946896bd33f3ee9b268c5a614a",
+        "component:assets/plate-boundary-types.svg": "afe98f7dc9dcd9c3fb9f63549e8bc441609bb2816370728fd735225a99985c86",
+        "component:assets/thingvellir-rift.jpg": "f3621f008ef146d53eef152dac39938e99cb37e77573b939caf13ceb5ecebc24",
+        "component:assets/wilson-cycle.svg": "c2a6ef7d741e33dc3903e7746e3e1531b0531d85ae41f5e2dee8b847f48548f8",
+        "component:concepts/plate-tectonics.md": "3060bb1b26ebe79a16bd2c6a161df06ae7f0250eeb507abbbfabc8a04e593878",
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980",
+        "component:metadata/PROVENANCE.json": "627a70ecfbced4d7f0dc83669d8bb52b8238dea6606f59cfa0ce4d9efe62db47",
+        "component:metadata/SOURCE_RECORD.json": "a3c4e96bc567175597f65425e38977bc351f1e3590ff355bf5539275dd5b1698"
+      }
+    },
+    {
+      "id": "component:study-guide/tectonic-hazards.md",
+      "path": "study-guide/tectonic-hazards.md",
+      "type": "study-guide",
+      "chapter": "tectonic-hazards",
+      "hash": "91ffc300c1b3de8abd313386b4e64ee8a90f093c157ac9c71019ca825227d1fd",
+      "dependencies": {
+        "component:alembic.json": "0995afff38e413757c34264facfd8512309301237544aa2ec4d6a03cef8d688d",
+        "component:assets/elastic-rebound-cycle.svg": "f6b14a6c898d61758728b6786e06f09e2ab0cdddede03d703c7743ada211493c",
+        "component:assets/hazard-risk-chain.svg": "da8ff5df733cd3721eb979690cfbdf0c42d93f689f365440673f3dd286353c46",
+        "component:assets/hunga-tonga-plume.jpg": "98e9fe5bd99b789c35f93d1e8193b7b755c3a13abcfd2239425f76e95f1545bc",
+        "component:assets/ridgecrest-road-offset.jpg": "fee2994611d2fd118d9e3f08c2e9073244b87e84a54fe63ce782da7ab460373e",
+        "component:assets/tsunami-shoaling.svg": "91c36575b58c5bedbb91c50c51aed28a7443865e0276cee05b78a7662ab7d5fd",
+        "component:concepts/tectonic-hazards.md": "d8d6f96b4a42965e7102b42b4e42925761f39319adb0360b15976a003a072e2f",
+        "component:metadata/FOUNDATION.json": "bd4bccf67e38961dd6f9aa90dc2b66142632ce0ef2bfb86a69bd73e178aea980",
+        "component:metadata/PROVENANCE.json": "627a70ecfbced4d7f0dc83669d8bb52b8238dea6606f59cfa0ce4d9efe62db47",
+        "component:metadata/SOURCE_RECORD.json": "a3c4e96bc567175597f65425e38977bc351f1e3590ff355bf5539275dd5b1698"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "from": "component:alembic.json",
+      "to": "component:assessment-support/plate-tectonics.md",
+      "reason": "manifest identity/scope/license constrains component"
+    },
+    {
+      "from": "component:alembic.json",
+      "to": "component:assessment-support/tectonic-hazards.md",
+      "reason": "manifest identity/scope/license constrains component"
+    },
+    {
+      "from": "component:alembic.json",
+      "to": "component:concepts/course.md",
+      "reason": "manifest identity/scope/license constrains component"
+    },
+    {
+      "from": "component:alembic.json",
+      "to": "component:concepts/plate-tectonics.md",
+      "reason": "manifest identity/scope/license constrains component"
+    },
+    {
+      "from": "component:alembic.json",
+      "to": "component:concepts/tectonic-hazards.md",
+      "reason": "manifest identity/scope/license constrains component"
+    },
+    {
+      "from": "component:alembic.json",
+      "to": "component:LICENSE",
+      "reason": "manifest identity/scope/license constrains component"
+    },
+    {
+      "from": "component:alembic.json",
+      "to": "component:metadata/ATTRIBUTION.md",
+      "reason": "manifest identity/scope/license constrains component"
+    },
+    {
+      "from": "component:alembic.json",
+      "to": "component:metadata/KEY_FACT_REVIEW.json",
+      "reason": "output-license declaration is rechecked in the key-fact critique"
+    },
+    {
+      "from": "component:alembic.json",
+      "to": "component:practice/plate-tectonics.md",
+      "reason": "manifest identity/scope/license constrains component"
+    },
+    {
+      "from": "component:alembic.json",
+      "to": "component:practice/tectonic-hazards.md",
+      "reason": "manifest identity/scope/license constrains component"
+    },
+    {
+      "from": "component:alembic.json",
+      "to": "component:README.md",
+      "reason": "manifest identity/scope/license constrains component"
+    },
+    {
+      "from": "component:alembic.json",
+      "to": "component:slides/plate-tectonics.md",
+      "reason": "manifest identity/scope/license constrains component"
+    },
+    {
+      "from": "component:alembic.json",
+      "to": "component:slides/tectonic-hazards.md",
+      "reason": "manifest identity/scope/license constrains component"
+    },
+    {
+      "from": "component:alembic.json",
+      "to": "component:study-guide/plate-tectonics.md",
+      "reason": "manifest identity/scope/license constrains component"
+    },
+    {
+      "from": "component:alembic.json",
+      "to": "component:study-guide/tectonic-hazards.md",
+      "reason": "manifest identity/scope/license constrains component"
+    },
+    {
+      "from": "component:assessment-support/plate-tectonics.md",
+      "to": "component:metadata/KEY_FACT_REVIEW.json",
+      "reason": "teaching content must be rechecked in the key-fact critique"
+    },
+    {
+      "from": "component:assessment-support/plate-tectonics.md",
+      "to": "component:practice/plate-tectonics.md",
+      "reason": "practice instantiates assessment design"
+    },
+    {
+      "from": "component:assessment-support/tectonic-hazards.md",
+      "to": "component:metadata/KEY_FACT_REVIEW.json",
+      "reason": "teaching content must be rechecked in the key-fact critique"
+    },
+    {
+      "from": "component:assessment-support/tectonic-hazards.md",
+      "to": "component:practice/tectonic-hazards.md",
+      "reason": "practice instantiates assessment design"
+    },
+    {
+      "from": "component:assets/elastic-rebound-cycle.svg",
+      "to": "component:metadata/ATTRIBUTION.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/elastic-rebound-cycle.svg",
+      "to": "component:metadata/VISUAL_REVIEW.json",
+      "reason": "visual asset must be re-reviewed after change"
+    },
+    {
+      "from": "component:assets/elastic-rebound-cycle.svg",
+      "to": "component:slides/tectonic-hazards.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/elastic-rebound-cycle.svg",
+      "to": "component:study-guide/tectonic-hazards.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/hazard-risk-chain.svg",
+      "to": "component:metadata/ATTRIBUTION.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/hazard-risk-chain.svg",
+      "to": "component:metadata/VISUAL_REVIEW.json",
+      "reason": "visual asset must be re-reviewed after change"
+    },
+    {
+      "from": "component:assets/hazard-risk-chain.svg",
+      "to": "component:slides/tectonic-hazards.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/hazard-risk-chain.svg",
+      "to": "component:study-guide/tectonic-hazards.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/hunga-tonga-plume.jpg",
+      "to": "component:metadata/ATTRIBUTION.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/hunga-tonga-plume.jpg",
+      "to": "component:metadata/VISUAL_REVIEW.json",
+      "reason": "visual asset must be re-reviewed after change"
+    },
+    {
+      "from": "component:assets/hunga-tonga-plume.jpg",
+      "to": "component:slides/tectonic-hazards.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/hunga-tonga-plume.jpg",
+      "to": "component:study-guide/tectonic-hazards.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/lithosphere-asthenosphere.svg",
+      "to": "component:metadata/ATTRIBUTION.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/lithosphere-asthenosphere.svg",
+      "to": "component:metadata/VISUAL_REVIEW.json",
+      "reason": "visual asset must be re-reviewed after change"
+    },
+    {
+      "from": "component:assets/lithosphere-asthenosphere.svg",
+      "to": "component:slides/plate-tectonics.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/lithosphere-asthenosphere.svg",
+      "to": "component:study-guide/plate-tectonics.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/magnetic-stripes.svg",
+      "to": "component:metadata/ATTRIBUTION.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/magnetic-stripes.svg",
+      "to": "component:metadata/VISUAL_REVIEW.json",
+      "reason": "visual asset must be re-reviewed after change"
+    },
+    {
+      "from": "component:assets/magnetic-stripes.svg",
+      "to": "component:slides/plate-tectonics.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/magnetic-stripes.svg",
+      "to": "component:study-guide/plate-tectonics.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/pillow-lava-loihi.jpg",
+      "to": "component:metadata/ATTRIBUTION.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/pillow-lava-loihi.jpg",
+      "to": "component:metadata/VISUAL_REVIEW.json",
+      "reason": "visual asset must be re-reviewed after change"
+    },
+    {
+      "from": "component:assets/pillow-lava-loihi.jpg",
+      "to": "component:slides/plate-tectonics.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/pillow-lava-loihi.jpg",
+      "to": "component:study-guide/plate-tectonics.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/plate-boundary-types.svg",
+      "to": "component:metadata/ATTRIBUTION.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/plate-boundary-types.svg",
+      "to": "component:metadata/VISUAL_REVIEW.json",
+      "reason": "visual asset must be re-reviewed after change"
+    },
+    {
+      "from": "component:assets/plate-boundary-types.svg",
+      "to": "component:slides/plate-tectonics.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/plate-boundary-types.svg",
+      "to": "component:study-guide/plate-tectonics.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/ridgecrest-road-offset.jpg",
+      "to": "component:metadata/ATTRIBUTION.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/ridgecrest-road-offset.jpg",
+      "to": "component:metadata/VISUAL_REVIEW.json",
+      "reason": "visual asset must be re-reviewed after change"
+    },
+    {
+      "from": "component:assets/ridgecrest-road-offset.jpg",
+      "to": "component:slides/tectonic-hazards.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/ridgecrest-road-offset.jpg",
+      "to": "component:study-guide/tectonic-hazards.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/thingvellir-rift.jpg",
+      "to": "component:metadata/ATTRIBUTION.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/thingvellir-rift.jpg",
+      "to": "component:metadata/VISUAL_REVIEW.json",
+      "reason": "visual asset must be re-reviewed after change"
+    },
+    {
+      "from": "component:assets/thingvellir-rift.jpg",
+      "to": "component:slides/plate-tectonics.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/thingvellir-rift.jpg",
+      "to": "component:study-guide/plate-tectonics.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/tsunami-shoaling.svg",
+      "to": "component:metadata/ATTRIBUTION.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/tsunami-shoaling.svg",
+      "to": "component:metadata/VISUAL_REVIEW.json",
+      "reason": "visual asset must be re-reviewed after change"
+    },
+    {
+      "from": "component:assets/tsunami-shoaling.svg",
+      "to": "component:slides/tectonic-hazards.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/tsunami-shoaling.svg",
+      "to": "component:study-guide/tectonic-hazards.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/wilson-cycle.svg",
+      "to": "component:metadata/ATTRIBUTION.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/wilson-cycle.svg",
+      "to": "component:metadata/VISUAL_REVIEW.json",
+      "reason": "visual asset must be re-reviewed after change"
+    },
+    {
+      "from": "component:assets/wilson-cycle.svg",
+      "to": "component:slides/plate-tectonics.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:assets/wilson-cycle.svg",
+      "to": "component:study-guide/plate-tectonics.md",
+      "reason": "component embeds/references asset"
+    },
+    {
+      "from": "component:concepts/course.md",
+      "to": "component:concepts/plate-tectonics.md",
+      "reason": "course logic constrains chapter logic"
+    },
+    {
+      "from": "component:concepts/course.md",
+      "to": "component:concepts/tectonic-hazards.md",
+      "reason": "course logic constrains chapter logic"
+    },
+    {
+      "from": "component:concepts/course.md",
+      "to": "component:metadata/KEY_FACT_REVIEW.json",
+      "reason": "teaching content must be rechecked in the key-fact critique"
+    },
+    {
+      "from": "component:concepts/plate-tectonics.md",
+      "to": "component:assessment-support/plate-tectonics.md",
+      "reason": "chapter objectives drive assessment"
+    },
+    {
+      "from": "component:concepts/plate-tectonics.md",
+      "to": "component:metadata/KEY_FACT_REVIEW.json",
+      "reason": "teaching content must be rechecked in the key-fact critique"
+    },
+    {
+      "from": "component:concepts/plate-tectonics.md",
+      "to": "component:study-guide/plate-tectonics.md",
+      "reason": "chapter concepts drive study guide"
+    },
+    {
+      "from": "component:concepts/tectonic-hazards.md",
+      "to": "component:assessment-support/tectonic-hazards.md",
+      "reason": "chapter objectives drive assessment"
+    },
+    {
+      "from": "component:concepts/tectonic-hazards.md",
+      "to": "component:metadata/KEY_FACT_REVIEW.json",
+      "reason": "teaching content must be rechecked in the key-fact critique"
+    },
+    {
+      "from": "component:concepts/tectonic-hazards.md",
+      "to": "component:study-guide/tectonic-hazards.md",
+      "reason": "chapter concepts drive study guide"
+    },
+    {
+      "from": "component:LICENSE",
+      "to": "component:metadata/KEY_FACT_REVIEW.json",
+      "reason": "canonical output-license text is rechecked in the key-fact critique"
+    },
+    {
+      "from": "component:metadata/ATTRIBUTION.md",
+      "to": "component:metadata/KEY_FACT_REVIEW.json",
+      "reason": "public attribution obligations are rechecked in the key-fact critique"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:alembic.json",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:assessment-support/plate-tectonics.md",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:assessment-support/tectonic-hazards.md",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:assets/elastic-rebound-cycle.svg",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:assets/hazard-risk-chain.svg",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:assets/hunga-tonga-plume.jpg",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:assets/lithosphere-asthenosphere.svg",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:assets/magnetic-stripes.svg",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:assets/pillow-lava-loihi.jpg",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:assets/plate-boundary-types.svg",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:assets/ridgecrest-road-offset.jpg",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:assets/thingvellir-rift.jpg",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:assets/tsunami-shoaling.svg",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:assets/wilson-cycle.svg",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:concepts/course.md",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:concepts/plate-tectonics.md",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:concepts/tectonic-hazards.md",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:LICENSE",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/ATTRIBUTION.md",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/evidence/hunga-tonga-plume.attrib.json",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/evidence/media-photo-hunga-tonga-plume.html",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/evidence/media-photo-pillow-lava-loihi.html",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/evidence/media-photo-ridgecrest-road-offset.html",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/evidence/media-photo-thingvellir-rift.html",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/evidence/ridgecrest-road-offset.attrib.json",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/evidence/wikipedia-earthquake.html",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/evidence/wikipedia-lithosphere.html",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/evidence/wikipedia-paleomagnetism.html",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/evidence/wikipedia-plate-tectonics.html",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/evidence/wikipedia-seafloor-spreading.html",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/evidence/wikipedia-wilson-cycle.html",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/KEY_FACT_REVIEW.json",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/MEDIA_PLAN.json",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/preflight/wikipedia-earthquake-warning-system.json",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/preflight/wikipedia-earthquake.json",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/preflight/wikipedia-lithosphere.json",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/preflight/wikipedia-paleomagnetism.json",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/preflight/wikipedia-plate-tectonics.json",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/preflight/wikipedia-seafloor-spreading.json",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/preflight/wikipedia-tsunami.json",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/preflight/wikipedia-volcano.json",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/preflight/wikipedia-wilson-cycle.json",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/PROVENANCE.json",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/SOURCE_RECORD.json",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:metadata/VISUAL_REVIEW.json",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:practice/plate-tectonics.md",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:practice/tectonic-hazards.md",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:README.md",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:slides/plate-tectonics.md",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:slides/tectonic-hazards.md",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:study-guide/plate-tectonics.md",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/FOUNDATION.json",
+      "to": "component:study-guide/tectonic-hazards.md",
+      "reason": "foundation facts constrain component"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:metadata/ATTRIBUTION.md",
+      "reason": "human attribution mirrors provenance"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:metadata/KEY_FACT_REVIEW.json",
+      "reason": "media provenance is rechecked in the key-fact critique"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:slides/plate-tectonics.md",
+      "reason": "provenance item fig-lithosphere-asthenosphere constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:slides/plate-tectonics.md",
+      "reason": "provenance item fig-magnetic-stripes constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:slides/plate-tectonics.md",
+      "reason": "provenance item fig-plate-boundary-types constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:slides/plate-tectonics.md",
+      "reason": "provenance item fig-wilson-cycle constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:slides/plate-tectonics.md",
+      "reason": "provenance item photo-pillow-lava-loihi constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:slides/plate-tectonics.md",
+      "reason": "provenance item photo-thingvellir-rift constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:slides/tectonic-hazards.md",
+      "reason": "provenance item fig-elastic-rebound-cycle constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:slides/tectonic-hazards.md",
+      "reason": "provenance item fig-hazard-risk-chain constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:slides/tectonic-hazards.md",
+      "reason": "provenance item fig-tsunami-shoaling constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:slides/tectonic-hazards.md",
+      "reason": "provenance item photo-hunga-tonga-plume constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:slides/tectonic-hazards.md",
+      "reason": "provenance item photo-ridgecrest-road-offset constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:study-guide/plate-tectonics.md",
+      "reason": "provenance item fig-lithosphere-asthenosphere constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:study-guide/plate-tectonics.md",
+      "reason": "provenance item fig-magnetic-stripes constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:study-guide/plate-tectonics.md",
+      "reason": "provenance item fig-plate-boundary-types constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:study-guide/plate-tectonics.md",
+      "reason": "provenance item fig-wilson-cycle constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:study-guide/plate-tectonics.md",
+      "reason": "provenance item photo-pillow-lava-loihi constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:study-guide/plate-tectonics.md",
+      "reason": "provenance item photo-thingvellir-rift constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:study-guide/tectonic-hazards.md",
+      "reason": "provenance item fig-elastic-rebound-cycle constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:study-guide/tectonic-hazards.md",
+      "reason": "provenance item fig-hazard-risk-chain constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:study-guide/tectonic-hazards.md",
+      "reason": "provenance item fig-tsunami-shoaling constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:study-guide/tectonic-hazards.md",
+      "reason": "provenance item photo-hunga-tonga-plume constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/PROVENANCE.json",
+      "to": "component:study-guide/tectonic-hazards.md",
+      "reason": "provenance item photo-ridgecrest-road-offset constrains incorporating document"
+    },
+    {
+      "from": "component:metadata/SOURCE_RECORD.json",
+      "to": "component:assessment-support/plate-tectonics.md",
+      "reason": "revision-bound sources constrain teaching content"
+    },
+    {
+      "from": "component:metadata/SOURCE_RECORD.json",
+      "to": "component:assessment-support/tectonic-hazards.md",
+      "reason": "revision-bound sources constrain teaching content"
+    },
+    {
+      "from": "component:metadata/SOURCE_RECORD.json",
+      "to": "component:concepts/course.md",
+      "reason": "revision-bound sources constrain teaching content"
+    },
+    {
+      "from": "component:metadata/SOURCE_RECORD.json",
+      "to": "component:concepts/plate-tectonics.md",
+      "reason": "revision-bound sources constrain teaching content"
+    },
+    {
+      "from": "component:metadata/SOURCE_RECORD.json",
+      "to": "component:concepts/tectonic-hazards.md",
+      "reason": "revision-bound sources constrain teaching content"
+    },
+    {
+      "from": "component:metadata/SOURCE_RECORD.json",
+      "to": "component:metadata/KEY_FACT_REVIEW.json",
+      "reason": "source revisions are rechecked in the key-fact critique"
+    },
+    {
+      "from": "component:metadata/SOURCE_RECORD.json",
+      "to": "component:practice/plate-tectonics.md",
+      "reason": "revision-bound sources constrain teaching content"
+    },
+    {
+      "from": "component:metadata/SOURCE_RECORD.json",
+      "to": "component:practice/tectonic-hazards.md",
+      "reason": "revision-bound sources constrain teaching content"
+    },
+    {
+      "from": "component:metadata/SOURCE_RECORD.json",
+      "to": "component:slides/plate-tectonics.md",
+      "reason": "revision-bound sources constrain teaching content"
+    },
+    {
+      "from": "component:metadata/SOURCE_RECORD.json",
+      "to": "component:slides/tectonic-hazards.md",
+      "reason": "revision-bound sources constrain teaching content"
+    },
+    {
+      "from": "component:metadata/SOURCE_RECORD.json",
+      "to": "component:study-guide/plate-tectonics.md",
+      "reason": "revision-bound sources constrain teaching content"
+    },
+    {
+      "from": "component:metadata/SOURCE_RECORD.json",
+      "to": "component:study-guide/tectonic-hazards.md",
+      "reason": "revision-bound sources constrain teaching content"
+    },
+    {
+      "from": "component:practice/plate-tectonics.md",
+      "to": "component:metadata/KEY_FACT_REVIEW.json",
+      "reason": "teaching content must be rechecked in the key-fact critique"
+    },
+    {
+      "from": "component:practice/plate-tectonics.md",
+      "to": "component:metadata/VISUAL_REVIEW.json",
+      "reason": "carrier source must be visually re-reviewed after change"
+    },
+    {
+      "from": "component:practice/tectonic-hazards.md",
+      "to": "component:metadata/KEY_FACT_REVIEW.json",
+      "reason": "teaching content must be rechecked in the key-fact critique"
+    },
+    {
+      "from": "component:practice/tectonic-hazards.md",
+      "to": "component:metadata/VISUAL_REVIEW.json",
+      "reason": "carrier source must be visually re-reviewed after change"
+    },
+    {
+      "from": "component:slides/plate-tectonics.md",
+      "to": "component:metadata/KEY_FACT_REVIEW.json",
+      "reason": "teaching content must be rechecked in the key-fact critique"
+    },
+    {
+      "from": "component:slides/plate-tectonics.md",
+      "to": "component:metadata/VISUAL_REVIEW.json",
+      "reason": "carrier source must be visually re-reviewed after change"
+    },
+    {
+      "from": "component:slides/tectonic-hazards.md",
+      "to": "component:metadata/KEY_FACT_REVIEW.json",
+      "reason": "teaching content must be rechecked in the key-fact critique"
+    },
+    {
+      "from": "component:slides/tectonic-hazards.md",
+      "to": "component:metadata/VISUAL_REVIEW.json",
+      "reason": "carrier source must be visually re-reviewed after change"
+    },
+    {
+      "from": "component:study-guide/plate-tectonics.md",
+      "to": "component:assessment-support/plate-tectonics.md",
+      "reason": "terminology/examples constrain assessment"
+    },
+    {
+      "from": "component:study-guide/plate-tectonics.md",
+      "to": "component:metadata/KEY_FACT_REVIEW.json",
+      "reason": "teaching content must be rechecked in the key-fact critique"
+    },
+    {
+      "from": "component:study-guide/plate-tectonics.md",
+      "to": "component:metadata/VISUAL_REVIEW.json",
+      "reason": "carrier source must be visually re-reviewed after change"
+    },
+    {
+      "from": "component:study-guide/plate-tectonics.md",
+      "to": "component:practice/plate-tectonics.md",
+      "reason": "practice must remain consistent with teaching content"
+    },
+    {
+      "from": "component:study-guide/plate-tectonics.md",
+      "to": "component:slides/plate-tectonics.md",
+      "reason": "slides derive from study guide"
+    },
+    {
+      "from": "component:study-guide/tectonic-hazards.md",
+      "to": "component:assessment-support/tectonic-hazards.md",
+      "reason": "terminology/examples constrain assessment"
+    },
+    {
+      "from": "component:study-guide/tectonic-hazards.md",
+      "to": "component:metadata/KEY_FACT_REVIEW.json",
+      "reason": "teaching content must be rechecked in the key-fact critique"
+    },
+    {
+      "from": "component:study-guide/tectonic-hazards.md",
+      "to": "component:metadata/VISUAL_REVIEW.json",
+      "reason": "carrier source must be visually re-reviewed after change"
+    },
+    {
+      "from": "component:study-guide/tectonic-hazards.md",
+      "to": "component:practice/tectonic-hazards.md",
+      "reason": "practice must remain consistent with teaching content"
+    },
+    {
+      "from": "component:study-guide/tectonic-hazards.md",
+      "to": "component:slides/tectonic-hazards.md",
+      "reason": "slides derive from study guide"
+    }
+  ]
+}

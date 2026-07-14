@@ -1,0 +1,17 @@
+# Attribution
+
+Generated from `metadata/PROVENANCE.json`; do not edit independently.
+
+| Asset | Title | Creator | Source | License/status | Attribution | Used in |
+|---|---|---|---|---|---|---|
+| `assets/elastic-rebound-cycle.svg` | Elastic rebound cycle | Yu Wang | — | CC BY-SA 4.0 | Original accessible SVG diagram by Yu Wang for this package. | study-guide/tectonic-hazards.md, slides/tectonic-hazards.md |
+| `assets/hazard-risk-chain.svg` | Hazard, exposure, vulnerability, and risk reduction | Yu Wang | — | CC BY-SA 4.0 | Original accessible SVG diagram by Yu Wang for this package. | study-guide/tectonic-hazards.md, slides/tectonic-hazards.md |
+| `assets/hunga-tonga-plume.jpg` | Atmospheric plume from the 2022 Hunga Tonga eruption | NASA / Kayla Barron | [source](https://commons.wikimedia.org/wiki/File:ISS-66_Atmospheric_plume_from_2022_Hunga_Tonga_eruption_-_edited.jpg) | Public domain | NASA / Kayla Barron, atmospheric plume from the 2022 Hunga Tonga eruption; public domain; resized for this package. | study-guide/tectonic-hazards.md, slides/tectonic-hazards.md |
+| `assets/lithosphere-asthenosphere.svg` | Mechanical layers that make plate motion possible | Yu Wang | — | CC BY-SA 4.0 | Original accessible SVG diagram by Yu Wang for this package. | study-guide/plate-tectonics.md, slides/plate-tectonics.md |
+| `assets/magnetic-stripes.svg` | Symmetric magnetic stripes produced by seafloor spreading | Yu Wang | — | CC BY-SA 4.0 | Original accessible SVG diagram by Yu Wang for this package. | study-guide/plate-tectonics.md, slides/plate-tectonics.md |
+| `assets/pillow-lava-loihi.jpg` | Pillow Lava from Loihi Seamount in Hawaii | Ed Shiinoki, National Park Service | [source](https://commons.wikimedia.org/wiki/File:Pillow_Lava_from_Loihi_Seamount_in_Hawaii_USA.jpg) | Public domain | Ed Shiinoki, National Park Service, Pillow Lava from Loihi Seamount in Hawaii; public domain; resized for this package. | study-guide/plate-tectonics.md, slides/plate-tectonics.md |
+| `assets/plate-boundary-types.svg` | Three idealized plate-boundary types | Yu Wang | — | CC BY-SA 4.0 | Original accessible SVG diagram by Yu Wang for this package. | study-guide/plate-tectonics.md, slides/plate-tectonics.md |
+| `assets/ridgecrest-road-offset.jpg` | July 5, 2019, Ridgecrest earthquake road offset | Ken Hudnut, USGS | [source](https://commons.wikimedia.org/wiki/File:July_5,_2019,_Ridgecrest_earthquake_road_offset.jpg) | Public domain | Ken Hudnut, USGS, July 5, 2019, Ridgecrest earthquake road offset; public domain; resized for this package. | study-guide/tectonic-hazards.md, slides/tectonic-hazards.md |
+| `assets/thingvellir-rift.jpg` | Almannagjá rift at Þingvellir National Park | Olga Ernst | [source](https://commons.wikimedia.org/wiki/File:Almannagjá_rift_at_Þingvellir_National_Park.jpg) | CC BY-SA 4.0 | Olga Ernst, Almannagjá rift at Þingvellir National Park, CC BY-SA 4.0; cropped/resized for this package. | study-guide/plate-tectonics.md, slides/plate-tectonics.md |
+| `assets/tsunami-shoaling.svg` | Tsunami propagation and shoaling | Yu Wang | — | CC BY-SA 4.0 | Original accessible SVG diagram by Yu Wang for this package. | study-guide/tectonic-hazards.md, slides/tectonic-hazards.md |
+| `assets/wilson-cycle.svg` | Six-stage Wilson cycle | Yu Wang | — | CC BY-SA 4.0 | Original accessible SVG diagram by Yu Wang for this package. | study-guide/plate-tectonics.md, slides/plate-tectonics.md |

@@ -1,0 +1,331 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "fig-lithosphere-asthenosphere",
+      "type": "image",
+      "mediaKind": "diagram",
+      "localPath": "assets/lithosphere-asthenosphere.svg",
+      "usedIn": [
+        "study-guide/plate-tectonics.md",
+        "slides/plate-tectonics.md"
+      ],
+      "title": "Mechanical layers that make plate motion possible",
+      "creator": "Yu Wang",
+      "sourceUrl": null,
+      "license": "CC BY-SA 4.0",
+      "attribution": "Original accessible SVG diagram by Yu Wang for this package.",
+      "provenanceStatus": "self-generated",
+      "publicationStatus": "cleared",
+      "blockReason": null
+    },
+    {
+      "id": "fig-plate-boundary-types",
+      "type": "image",
+      "mediaKind": "diagram",
+      "localPath": "assets/plate-boundary-types.svg",
+      "usedIn": [
+        "study-guide/plate-tectonics.md",
+        "slides/plate-tectonics.md"
+      ],
+      "title": "Three idealized plate-boundary types",
+      "creator": "Yu Wang",
+      "sourceUrl": null,
+      "license": "CC BY-SA 4.0",
+      "attribution": "Original accessible SVG diagram by Yu Wang for this package.",
+      "provenanceStatus": "self-generated",
+      "publicationStatus": "cleared",
+      "blockReason": null
+    },
+    {
+      "id": "photo-thingvellir-rift",
+      "type": "image",
+      "mediaKind": "photo",
+      "localPath": "assets/thingvellir-rift.jpg",
+      "usedIn": [
+        "study-guide/plate-tectonics.md",
+        "slides/plate-tectonics.md"
+      ],
+      "title": "Almannagjá rift at Þingvellir National Park",
+      "creator": "Olga Ernst",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Almannagjá_rift_at_Þingvellir_National_Park.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Olga Ernst, Almannagjá rift at Þingvellir National Park, CC BY-SA 4.0; cropped/resized for this package.",
+      "provenanceStatus": "verified",
+      "publicationStatus": "cleared",
+      "blockReason": null,
+      "rightsEvidence": {
+        "evidenceType": "official-media-description-page",
+        "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Almannagjá_rift_at_Þingvellir_National_Park.jpg",
+        "verifiedAt": "2026-07-14",
+        "evidenceSnapshot": "metadata/evidence/media-photo-thingvellir-rift.html",
+        "evidenceSha256": "954d233409df8d5cc2c0819f60a370956da0090d4472e5c6a3b04f20947b1607",
+        "evidenceRetrieval": {
+          "captureMode": "network",
+          "requestedUrl": "https://commons.wikimedia.org/wiki/File:Almannagjá_rift_at_Þingvellir_National_Park.jpg",
+          "finalUrl": "https://commons.wikimedia.org/wiki/File:Almannagj%C3%A1_rift_at_%C3%9Eingvellir_National_Park.jpg",
+          "redirectChain": [],
+          "retrievedAt": "2026-07-14T09:00:29.429Z",
+          "httpStatus": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "byteLength": 122446,
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "evidenceCapture": {
+          "operator": {
+            "type": "automation",
+            "name": "Coursewerk Trial Builder"
+          },
+          "capturedAt": "2026-07-14T09:00:29.429Z",
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "photo-pillow-lava-loihi",
+      "type": "image",
+      "mediaKind": "photo",
+      "localPath": "assets/pillow-lava-loihi.jpg",
+      "usedIn": [
+        "study-guide/plate-tectonics.md",
+        "slides/plate-tectonics.md"
+      ],
+      "title": "Pillow Lava from Loihi Seamount in Hawaii",
+      "creator": "Ed Shiinoki, National Park Service",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pillow_Lava_from_Loihi_Seamount_in_Hawaii_USA.jpg",
+      "license": "Public domain",
+      "attribution": "Ed Shiinoki, National Park Service, Pillow Lava from Loihi Seamount in Hawaii; public domain; resized for this package.",
+      "provenanceStatus": "verified",
+      "publicationStatus": "cleared",
+      "blockReason": null,
+      "rightsEvidence": {
+        "evidenceType": "official-media-description-page",
+        "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Pillow_Lava_from_Loihi_Seamount_in_Hawaii_USA.jpg",
+        "verifiedAt": "2026-07-14",
+        "evidenceSnapshot": "metadata/evidence/media-photo-pillow-lava-loihi.html",
+        "evidenceSha256": "615d349c6c87b9150b82880aea7515e1ec1dc725c1b463a31795cca25279e895",
+        "evidenceRetrieval": {
+          "captureMode": "network",
+          "requestedUrl": "https://commons.wikimedia.org/wiki/File:Pillow_Lava_from_Loihi_Seamount_in_Hawaii_USA.jpg",
+          "finalUrl": "https://commons.wikimedia.org/wiki/File:Pillow_Lava_from_Loihi_Seamount_in_Hawaii_USA.jpg",
+          "redirectChain": [],
+          "retrievedAt": "2026-07-14T09:00:35.415Z",
+          "httpStatus": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "byteLength": 82386,
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "evidenceCapture": {
+          "operator": {
+            "type": "automation",
+            "name": "Coursewerk Trial Builder"
+          },
+          "capturedAt": "2026-07-14T09:00:35.415Z",
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "fig-magnetic-stripes",
+      "type": "image",
+      "mediaKind": "diagram",
+      "localPath": "assets/magnetic-stripes.svg",
+      "usedIn": [
+        "study-guide/plate-tectonics.md",
+        "slides/plate-tectonics.md"
+      ],
+      "title": "Symmetric magnetic stripes produced by seafloor spreading",
+      "creator": "Yu Wang",
+      "sourceUrl": null,
+      "license": "CC BY-SA 4.0",
+      "attribution": "Original accessible SVG diagram by Yu Wang for this package.",
+      "provenanceStatus": "self-generated",
+      "publicationStatus": "cleared",
+      "blockReason": null
+    },
+    {
+      "id": "fig-wilson-cycle",
+      "type": "image",
+      "mediaKind": "diagram",
+      "localPath": "assets/wilson-cycle.svg",
+      "usedIn": [
+        "study-guide/plate-tectonics.md",
+        "slides/plate-tectonics.md"
+      ],
+      "title": "Six-stage Wilson cycle",
+      "creator": "Yu Wang",
+      "sourceUrl": null,
+      "license": "CC BY-SA 4.0",
+      "attribution": "Original accessible SVG diagram by Yu Wang for this package.",
+      "provenanceStatus": "self-generated",
+      "publicationStatus": "cleared",
+      "blockReason": null
+    },
+    {
+      "id": "fig-elastic-rebound-cycle",
+      "type": "image",
+      "mediaKind": "diagram",
+      "localPath": "assets/elastic-rebound-cycle.svg",
+      "usedIn": [
+        "study-guide/tectonic-hazards.md",
+        "slides/tectonic-hazards.md"
+      ],
+      "title": "Elastic rebound cycle",
+      "creator": "Yu Wang",
+      "sourceUrl": null,
+      "license": "CC BY-SA 4.0",
+      "attribution": "Original accessible SVG diagram by Yu Wang for this package.",
+      "provenanceStatus": "self-generated",
+      "publicationStatus": "cleared",
+      "blockReason": null
+    },
+    {
+      "id": "fig-tsunami-shoaling",
+      "type": "image",
+      "mediaKind": "diagram",
+      "localPath": "assets/tsunami-shoaling.svg",
+      "usedIn": [
+        "study-guide/tectonic-hazards.md",
+        "slides/tectonic-hazards.md"
+      ],
+      "title": "Tsunami propagation and shoaling",
+      "creator": "Yu Wang",
+      "sourceUrl": null,
+      "license": "CC BY-SA 4.0",
+      "attribution": "Original accessible SVG diagram by Yu Wang for this package.",
+      "provenanceStatus": "self-generated",
+      "publicationStatus": "cleared",
+      "blockReason": null
+    },
+    {
+      "id": "fig-hazard-risk-chain",
+      "type": "image",
+      "mediaKind": "diagram",
+      "localPath": "assets/hazard-risk-chain.svg",
+      "usedIn": [
+        "study-guide/tectonic-hazards.md",
+        "slides/tectonic-hazards.md"
+      ],
+      "title": "Hazard, exposure, vulnerability, and risk reduction",
+      "creator": "Yu Wang",
+      "sourceUrl": null,
+      "license": "CC BY-SA 4.0",
+      "attribution": "Original accessible SVG diagram by Yu Wang for this package.",
+      "provenanceStatus": "self-generated",
+      "publicationStatus": "cleared",
+      "blockReason": null
+    },
+    {
+      "id": "photo-ridgecrest-road-offset",
+      "type": "image",
+      "mediaKind": "photo",
+      "localPath": "assets/ridgecrest-road-offset.jpg",
+      "usedIn": [
+        "study-guide/tectonic-hazards.md",
+        "slides/tectonic-hazards.md"
+      ],
+      "title": "July 5, 2019, Ridgecrest earthquake road offset",
+      "creator": "Ken Hudnut, USGS",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:July_5,_2019,_Ridgecrest_earthquake_road_offset.jpg",
+      "license": "Public domain",
+      "attribution": "Ken Hudnut, USGS, July 5, 2019, Ridgecrest earthquake road offset; public domain; resized for this package.",
+      "provenanceStatus": "verified",
+      "publicationStatus": "cleared",
+      "blockReason": null,
+      "rightsEvidence": {
+        "evidenceType": "official-media-description-page",
+        "evidenceUrl": "https://commons.wikimedia.org/wiki/File:July_5,_2019,_Ridgecrest_earthquake_road_offset.jpg",
+        "verifiedAt": "2026-07-14",
+        "evidenceSnapshot": "metadata/evidence/media-photo-ridgecrest-road-offset.html",
+        "evidenceSha256": "2db80997020ace0f7544bb4c6cb0abdef9fe7d89536fa45a439b9e299e8008d8",
+        "evidenceRetrieval": {
+          "captureMode": "network",
+          "requestedUrl": "https://commons.wikimedia.org/wiki/File:July_5,_2019,_Ridgecrest_earthquake_road_offset.jpg",
+          "finalUrl": "https://commons.wikimedia.org/wiki/File:July_5,_2019,_Ridgecrest_earthquake_road_offset.jpg",
+          "redirectChain": [],
+          "retrievedAt": "2026-07-14T08:58:23.389Z",
+          "httpStatus": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "byteLength": 114115,
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "evidenceCapture": {
+          "operator": {
+            "type": "automation",
+            "name": "Coursewerk Trial Builder"
+          },
+          "capturedAt": "2026-07-14T08:58:23.389Z",
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        }
+      }
+    },
+    {
+      "id": "photo-hunga-tonga-plume",
+      "type": "image",
+      "mediaKind": "photo",
+      "localPath": "assets/hunga-tonga-plume.jpg",
+      "usedIn": [
+        "study-guide/tectonic-hazards.md",
+        "slides/tectonic-hazards.md"
+      ],
+      "title": "Atmospheric plume from the 2022 Hunga Tonga eruption",
+      "creator": "NASA / Kayla Barron",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ISS-66_Atmospheric_plume_from_2022_Hunga_Tonga_eruption_-_edited.jpg",
+      "license": "Public domain",
+      "attribution": "NASA / Kayla Barron, atmospheric plume from the 2022 Hunga Tonga eruption; public domain; resized for this package.",
+      "provenanceStatus": "verified",
+      "publicationStatus": "cleared",
+      "blockReason": null,
+      "rightsEvidence": {
+        "evidenceType": "official-media-description-page",
+        "evidenceUrl": "https://commons.wikimedia.org/wiki/File:ISS-66_Atmospheric_plume_from_2022_Hunga_Tonga_eruption_-_edited.jpg",
+        "verifiedAt": "2026-07-14",
+        "evidenceSnapshot": "metadata/evidence/media-photo-hunga-tonga-plume.html",
+        "evidenceSha256": "f6ceffc9ec43e67f07bf622bae593df03fa42fc35ecbbb6bea9d27cad6ebd235",
+        "evidenceRetrieval": {
+          "captureMode": "network",
+          "requestedUrl": "https://commons.wikimedia.org/wiki/File:ISS-66_Atmospheric_plume_from_2022_Hunga_Tonga_eruption_-_edited.jpg",
+          "finalUrl": "https://commons.wikimedia.org/wiki/File:ISS-66_Atmospheric_plume_from_2022_Hunga_Tonga_eruption_-_edited.jpg",
+          "redirectChain": [],
+          "retrievedAt": "2026-07-14T08:58:27.649Z",
+          "httpStatus": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "byteLength": 144285,
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        },
+        "evidenceCapture": {
+          "operator": {
+            "type": "automation",
+            "name": "Coursewerk Trial Builder"
+          },
+          "capturedAt": "2026-07-14T08:58:27.649Z",
+          "tool": {
+            "name": "coursewerk",
+            "version": "v0.11.0"
+          }
+        }
+      }
+    }
+  ]
+}

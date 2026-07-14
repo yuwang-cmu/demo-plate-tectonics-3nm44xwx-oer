@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "sourceId": "wikipedia-earthquake-warning-system",
+  "sourceBindingSha256": "cc354d374a9eff22f6e2a04339a1c111b1ba031fcb5fb9c5575c9a9ccfe54d50",
+  "policyId": "english-wikipedia-text",
+  "evidence": {
+    "url": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+    "snapshot": "metadata/evidence/wikipedia-earthquake.html",
+    "sha256": "6ba3c7ff64ccff2ae086950c212e0287ac271091aaa6d2a8ef6614dd5cbb3c4e",
+    "retrieval": {
+      "captureMode": "network",
+      "requestedUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+      "finalUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+      "redirectChain": [],
+      "retrievedAt": "2026-07-14T09:23:44.901Z",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "byteLength": 152376,
+      "tool": {
+        "name": "coursewerk",
+        "version": "v0.11.0"
+      }
+    }
+  },
+  "operator": {
+    "type": "automation",
+    "name": "Coursewerk consistency revision"
+  },
+  "processUseReview": {
+    "schemaVersion": 1,
+    "scannedAt": "2026-07-14T09:23:44.901Z",
+    "status": "no-notice-detected",
+    "legalEffectDetermined": false,
+    "notices": []
+  },
+  "noticeReviewComplete": true,
+  "policyChecksPassed": true,
+  "status": "cleared",
+  "warnings": [],
+  "blockers": [],
+  "generatedAt": "2026-07-14T09:23:44.901Z"
+}

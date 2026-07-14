@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "chapters": {
+    "plate-tectonics": {
+      "realImageDecision": "used",
+      "rationale": "Two rights-cleared photographs provide field and specimen context: the Þingvellir rift landscape and a collected Loihi pillow-lava specimen. Exact self-generated diagrams carry the boundary geometry and magnetic-stripe reasoning.",
+      "reviewedBy": "Yu Wang",
+      "reviewedAt": "2026-07-13"
+    },
+    "tectonic-hazards": {
+      "realImageDecision": "used",
+      "rationale": "Two rights-cleared public-domain photographs provide direct observational context: surface rupture offsetting a road after the Ridgecrest earthquake and an eruption plume viewed from orbit. Three original accessible SVGs carry causal mechanisms that photographs cannot show alone.",
+      "reviewedBy": "Coursewerk Trial Builder",
+      "reviewedAt": "2026-07-14"
+    }
+  }
+}
