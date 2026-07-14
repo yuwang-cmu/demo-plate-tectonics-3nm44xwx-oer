@@ -4,7 +4,7 @@
 **Reference:** English Wikipedia topic corpus, five revision-bound articles (CC BY-SA 4.0)
 **Audience:** Introductory undergraduate Earth-science learners
 **Package license:** CC-BY-SA-4.0
-**Note:** The chapter reorganizes the source corpus around model building, prediction, and evidence.
+**Note:** The chapter reorganizes the source corpus around model building, prediction, and evidence. 
 :::
 
 :::success
@@ -17,7 +17,7 @@
 - **1.5a** Sequence a Wilson cycle and evaluate plate reconstructions with appropriate limits.
 :::
 
-## Chapter Logic
+## Chapter Logic{{attrs[#blk-j6nzjckw6tlr]}}
 
 Plate tectonics is powerful because a small set of linked ideas explains many observations. Begin with **what can move**: a cool, rigid lithosphere lies above a hotter layer that deforms over geologic time. Add **how neighboring plates move**, and boundary geometry predicts ridges, trenches, faults, volcanic arcs, and mountain belts. Finally, ask whether those predictions agree with the age, magnetism, structure, and topography of real rocks.
 
@@ -312,7 +312,7 @@ Useful independent tests include matching dated rock belts or mountain structure
 - What geological feature marks a vanished ocean after collision?
 - Why must plate reconstructions combine evidence types?
 
-## Synthesis
+## Synthesis{{attrs[#blk-mj89092j2lrw]}}
 
 One thread connects the chapter: **material behavior permits motion, relative motion predicts processes, and preserved observations test the predictions**. Ridges create oceanic lithosphere; cooling changes its thickness and density; subduction recycles it; transform boundaries accommodate lateral motion; and rocks preserve enough age, magnetic, structural, and geographic information to reconstruct part of that history. The Wilson cycle is the basin-scale expression of these linked processes.
 
@@ -323,7 +323,7 @@ When solving a plate-tectonics problem, use four questions in order:
 3. What processes and observations should follow?
 4. Which evidence could falsify or qualify the interpretation?
 
-## Asset and License Record for This Chapter
+## Asset and License Record for This Chapter{{attrs[#blk-nwkxw0g86mg8]}}
 
 | Asset | Source URL | License | Attribution |
 |---|---|---|---|
@@ -334,6 +334,6 @@ When solving a plate-tectonics problem, use four questions in order:
 | `magnetic-stripes.svg` | Original in this package | CC BY-SA 4.0 | Yu Wang |
 | `wilson-cycle.svg` | Original in this package | CC BY-SA 4.0 | Yu Wang |
 
-## Source Adaptation Note
+## Source Adaptation Note{{attrs[#blk-m92yxeaapg4q]}}
 
 Adapted and reorganized for this teaching resource. Sources: Wikipedia contributors, [Plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics), [Lithosphere](https://en.wikipedia.org/wiki/Lithosphere), [Seafloor spreading](https://en.wikipedia.org/wiki/Seafloor_spreading), [Paleomagnetism](https://en.wikipedia.org/wiki/Paleomagnetism), and [Wilson Cycle](https://en.wikipedia.org/wiki/Wilson_Cycle), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
