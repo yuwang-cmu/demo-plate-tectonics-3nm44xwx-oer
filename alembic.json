@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "packageId": "pkg-demo-plate-tectonics-3nm44xwx",
+  "title": "(Demo) Plate Tectonics",
+  "description": "",
+  "keywords": [],
+  "discipline": "chemistry",
+  "courseContext": {},
+  "license": "CC-BY-SA-4.0",
+  "unitTerm": "chapter",
+  "createdAt": "2026-07-14T11:18:05.938Z",
+  "publicRepo": {
+    "owner": "yuwang-cmu",
+    "name": "demo-plate-tectonics-3nm44xwx-oer"
+  },
+  "privateRepo": {
+    "owner": "yuwang-cmu",
+    "name": "demo-plate-tectonics-3nm44xwx-private"
+  }
+}
