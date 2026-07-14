@@ -60,7 +60,7 @@ flowchart LR
 **Not a magma ocean:** the asthenosphere is mostly solid.
 :::
 <!-- @side -->
-![Cross-section of rigid lithospheric plates above a weaker asthenosphere](../assets/lithosphere-asthenosphere.svg =420x)
+![Cross-section of rigid lithospheric plates above a weaker asthenosphere](https://alembic.orz.how/d/doc-0unfg3tjdxd3 =420x)
 
 <!-- slide 2col -->
 ## Solid rock can still flow
@@ -95,7 +95,7 @@ Behavior depends on temperature, pressure, stress, and time.
 
 <!-- slide -->
 ## Three idealized motions
-![Three panels showing divergent, convergent, and transform plate-boundary motion](../assets/plate-boundary-types.svg =840x)
+![Three panels showing divergent, convergent, and transform plate-boundary motion](https://alembic.orz.how/d/doc-7udi8vgqz1hh =840x)
 
 - Apart → create oceanic lithosphere
 - Together → subduct or collide
@@ -104,7 +104,7 @@ Behavior depends on temperature, pressure, stress, and time.
 <!-- slide main-side -->
 ## Divergence in the field
 <!-- @main -->
-![Almannagjá rift walls at Þingvellir in Iceland](../assets/thingvellir-rift.jpg =590x)
+![Almannagjá rift walls at Þingvellir in Iceland](https://alembic.orz.how/d/doc-yfkjdi3u2d6s =590x)
 <!-- @side -->
 - Faulting records extension
 - Iceland exposes a broad ridge zone
@@ -146,7 +146,7 @@ Photo: Olga Ernst, CC BY-SA 4.0.
 <!-- slide main-side 3/2 -->
 ## A product of submarine eruption
 <!-- @main -->
-![Museum specimen of pillow lava from Loihi Seamount](../assets/pillow-lava-loihi.jpg =570x)
+![Museum specimen of pillow lava from Loihi Seamount](https://alembic.orz.how/d/doc-ye3pk0v8wwge =570x)
 <!-- @side -->
 - This specimen formed when basalt erupted into water
 - Rapid cooling builds rounded pillows
@@ -214,7 +214,7 @@ Resistance, suction, and changing geometry
 
 <!-- slide -->
 ## The mirror-image test
-![Symmetric normal and reversed magnetic polarity bands across a ridge](../assets/magnetic-stripes.svg =850x)
+![Symmetric normal and reversed magnetic polarity bands across a ridge](https://alembic.orz.how/d/doc-e9vxc19oriwk =850x)
 
 :::success
 Youngest at the axis · older outward · same reversal sequence on both flanks
@@ -252,7 +252,7 @@ $$v_{full}=v_W+v_E$$
 
 <!-- slide -->
 ## Six stages of a Wilson cycle
-![Clockwise Wilson cycle from rifting to collision](../assets/wilson-cycle.svg =760x)
+![Clockwise Wilson cycle from rifting to collision](https://alembic.orz.how/d/doc-o7yahp9dqxek =760x)
 
 :::warning
 **Idealized sequence:** Real basins can be asymmetric, interrupted, or reorganized.

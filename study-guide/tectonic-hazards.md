@@ -51,7 +51,7 @@ flowchart LR
 
 Plate motion is usually measured over years; earthquake rupture unfolds over seconds to minutes. The link is **fault locking**. Roughness and friction can keep sections of a fault from sliding smoothly while surrounding rock continues to deform. Elastic strain accumulates until slip begins and propagates across part of the fault. Some stored energy radiates as seismic waves, while other energy contributes to fracture and frictional heating.
 
-![Four-stage elastic rebound cycle from loading through rupture and renewed locking](../assets/elastic-rebound-cycle.svg)
+![Four-stage elastic rebound cycle from loading through rupture and renewed locking](https://alembic.orz.how/d/doc-nclbcj0om1ty)
 *Figure 2.1 — Elastic rebound connects slow plate loading to rapid rupture. The cycle does not imply equal intervals or permit an exact event-time prediction. Original diagram by Yu Wang, CC BY-SA 4.0.*
 
 Reuse the arrows from Chapter 1 before naming a fault:
@@ -65,7 +65,7 @@ Reuse the arrows from Chapter 1 before naming a fault:
 
 The **hypocenter** or focus is the point where rupture begins. The **epicenter** is the point at Earth’s surface directly above it. A large earthquake is not a point event: rupture can spread over a substantial fault area, and different parts may release different amounts of slip.
 
-![Road offset across the 2019 Ridgecrest earthquake surface rupture](../assets/ridgecrest-road-offset.jpg)
+![Road offset across the 2019 Ridgecrest earthquake surface rupture](https://alembic.orz.how/d/doc-v387dcsi4zm6)
 *Figure 2.2 — Surface displacement after the 5 July 2019 Ridgecrest earthquake offsets a road. Photo by Ken Hudnut, USGS; [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:July_5,_2019,_Ridgecrest_earthquake_road_offset.jpg), public domain. Resized for this package.*
 
 The road is an observation of **surface rupture**, not a ruler for total earthquake size or the only source of damage. Strong shaking can extend far beyond visible rupture, and many ruptures do not reach the surface.
@@ -148,7 +148,7 @@ Volcanism often follows the plate settings introduced in Chapter 1. Decompressio
 | Lahar | Water-rich volcanic debris follows valleys | Valley evacuation and long-duration monitoring |
 | Gas | Concentrations vary with wind and topography | Air-quality monitoring and access control |
 
-![Large atmospheric plume from the 2022 Hunga Tonga eruption viewed from orbit](../assets/hunga-tonga-plume.jpg)
+![Large atmospheric plume from the 2022 Hunga Tonga eruption viewed from orbit](https://alembic.orz.how/d/doc-43h3me40z8uc)
 *Figure 2.3 — A real eruption plume viewed from the International Space Station. The image shows scale and atmospheric transport, not a generic template for every eruption. NASA / Kayla Barron; [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ISS-66_Atmospheric_plume_from_2022_Hunga_Tonga_eruption_-_edited.jpg), public domain. Resized for this package.*
 
 Monitoring asks whether a volcano’s behavior is changing. Earthquake swarms may trace moving magma or changing stress. Ground deformation may show inflation or deflation. Gas composition or flux, thermal observations, and visible changes add independent constraints. A strong interpretation seeks a **pattern across streams** and compares it with the volcano’s baseline. One signal alone may have several explanations.
@@ -178,7 +178,7 @@ No. The combined signals support an inference that the system is changing and ma
 
 A tsunami is a series of long waves created when a large water volume is displaced. Many destructive tsunamis begin with seafloor deformation during a large subduction-zone earthquake, but landslides and volcanic processes can also generate them. An offshore earthquake is not sufficient by itself: source geometry, depth, slip, and vertical displacement matter.
 
-![Long low wave in deep ocean becoming shorter and higher near a coast](../assets/tsunami-shoaling.svg)
+![Long low wave in deep ocean becoming shorter and higher near a coast](https://alembic.orz.how/d/doc-cnosomim7i4w)
 *Figure 2.4 — Tsunami propagation and shoaling. Bathymetry and coastal form modify local inundation, and several waves may arrive. Original diagram by Yu Wang, CC BY-SA 4.0.*
 
 Because tsunami wavelength is enormous compared with water depth, it behaves as a shallow-water wave even in the deep ocean. Its approximate speed is
@@ -225,7 +225,7 @@ Four terms answer different questions:
 
 Earthquake early warning exploits a race: information derived from faster P-wave detection and electronic communication may reach some locations before stronger shaking. The useful interval shrinks with sensor distance from the rupture, processing and communication latency, distance to the user, and time required for action. Close to the source, no useful warning may be possible. Farther away, seconds may enable trains to slow, machinery to enter a safer state, or people to take a practiced protective action.
 
-![Flow from tectonic process through hazard, exposure, vulnerability, and risk reduction](../assets/hazard-risk-chain.svg)
+![Flow from tectonic process through hazard, exposure, vulnerability, and risk reduction](https://alembic.orz.how/d/doc-zvqu892i85da)
 *Figure 2.5 — Hazard is not the same as disaster risk. Monitoring and warning can support action, while engineering, planning, and education can reduce exposure or vulnerability. Original diagram by Yu Wang, CC BY-SA 4.0.*
 
 Risk reduction must continue when no alert is active. Building codes and retrofits address structural vulnerability; land-use planning can reduce exposure to faults, inundation zones, or volcanic channels; redundant lifelines reduce cascading failures; and education turns a warning into a feasible action. Equity matters because a technically correct message is not protective if recipients cannot receive, understand, trust, or act on it.

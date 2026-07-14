@@ -63,7 +63,7 @@ flowchart LR
 **Not a clock:** recurrence intervals and rupture sizes vary.
 :::
 <!-- @side -->
-![Four-stage elastic rebound cycle](../assets/elastic-rebound-cycle.svg =480x)
+![Four-stage elastic rebound cycle](https://alembic.orz.how/d/doc-nclbcj0om1ty =480x)
 
 <!-- slide 3col -->
 ## Motion predicts fault style
@@ -89,7 +89,7 @@ Blocks slide past
 <!-- slide main-side -->
 ## Surface rupture is one observation
 <!-- @main -->
-![Road offset by the 2019 Ridgecrest earthquake](../assets/ridgecrest-road-offset.jpg =600x)
+![Road offset by the 2019 Ridgecrest earthquake](https://alembic.orz.how/d/doc-v387dcsi4zm6 =600x)
 <!-- @side -->
 - Visible offset records displacement
 - Strong shaking extends beyond the break
@@ -189,7 +189,7 @@ Setting constrains possibilities; it does not uniquely predict eruption style.
 <!-- slide main-side 3/2 -->
 ## An eruption couples Earth and atmosphere
 <!-- @main -->
-![Atmospheric plume from the 2022 Hunga Tonga eruption](../assets/hunga-tonga-plume.jpg =620x)
+![Atmospheric plume from the 2022 Hunga Tonga eruption](https://alembic.orz.how/d/doc-43h3me40z8uc =620x)
 <!-- @side -->
 - Plumes transport ash and gases
 - Wind changes where material travels
@@ -261,7 +261,7 @@ No single signal proves an eruption time or style.
 
 <!-- slide -->
 ## The coast transforms the wave
-![Tsunami propagation and shoaling from deep ocean to coast](../assets/tsunami-shoaling.svg =920x)
+![Tsunami propagation and shoaling from deep ocean to coast](https://alembic.orz.how/d/doc-cnosomim7i4w =920x)
 
 - Deep water: long, low, fast
 - Shallow water: slower, shorter wavelength, potentially greater run-up
@@ -314,7 +314,7 @@ What action after detection?
 
 <!-- slide -->
 ## Hazard is not disaster risk
-![Flow from tectonic process through hazard, exposure, vulnerability, and risk reduction](../assets/hazard-risk-chain.svg =900x)
+![Flow from tectonic process through hazard, exposure, vulnerability, and risk reduction](https://alembic.orz.how/d/doc-zvqu892i85da =900x)
 
 <!-- slide 2col -->
 ## A warning system is human + technical
