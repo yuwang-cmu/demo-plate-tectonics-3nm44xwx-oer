@@ -3,11 +3,13 @@ title: Chapter 2: Tectonic Hazards—Processes, Warning, and Risk
 ratio: 16:9
 author: Yu Wang
 footer: CC BY-SA 4.0
+
+theme: paper
 -->
 
 <!-- slide template=title -->
 # Chapter 2: Tectonic Hazards
-## Processes, warning, and risk
+## Processes, warning, and risk 
 
 <!-- slide 2col -->
 ## Learning objectives
