@@ -3,11 +3,13 @@ title: Chapter 1: Plate Tectonics
 ratio: 16:9
 author: Yu Wang
 footer: CC BY-SA 4.0
+
+theme: paper
 -->
 
 <!-- slide template=title -->
 # Chapter 1: Plate Tectonics
-## From moving plates to a testable Earth system
+## From moving plates to a testable Earth system 
 
 <!-- slide 2col -->
 ## Learning objectives
